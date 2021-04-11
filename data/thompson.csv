@@ -1,0 +1,1014 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Klay Thompson","Golden State Warriors",2018-01-27,2017,6475,1610612744,400975474,2,10,02,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Boston Celtics",6,-2,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-25,2017,6475,1610612744,400974814,2,7,35,1,"Alley Oop Layup shot","2PT Field Goal",1,"Toronto Raptors",6,11,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-30,2017,6475,1610612744,400975497,2,7,39,0,"Alley Oop Layup shot","2PT Field Goal",6,"Utah Jazz",27,57,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-19,2017,6475,1610612744,400974987,1,5,26,1,"Cutting Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",7,-5,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-01,2017,6475,1610612744,400975899,3,10,30,1,"Cutting Dunk Shot","2PT Field Goal",2,"Phoenix Suns",-1,25,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-01,2017,6475,1610612744,400975899,1,9,22,1,"Cutting Finger Roll Layup Shot","2PT Field Goal",1,"Phoenix Suns",5,16,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-16,2017,6475,1610612744,400974966,1,5,59,1,"Cutting Finger Roll Layup Shot","2PT Field Goal",3,"Boston Celtics",9,29,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-25,2017,6475,1610612744,400975459,1,10,51,1,"Cutting Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",-5,26,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-14,2017,6475,1610612744,400975168,2,11,19,0,"Cutting Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-16,10,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-08,2017,6475,1610612744,400975119,1,9,03,1,"Cutting Layup Shot","2PT Field Goal",3,"Detroit Pistons",-36,15,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-02,2017,6475,1610612744,400975520,2,6,34,1,"Cutting Layup Shot","2PT Field Goal",0,"Sacramento Kings",5,7,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-21,2017,6475,1610612744,400974784,2,1,54,0,"Cutting Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-11,10,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-19,2017,6475,1610612744,400974987,1,8,29,0,"Cutting Layup Shot","2PT Field Goal",1,"Brooklyn Nets",13,10,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-10,2017,6475,1610612744,400975577,4,9,35,0,"Cutting Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-9,22,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-02,2017,6475,1610612744,400974868,1,9,28,1,"Cutting Layup Shot","2PT Field Goal",0,"San Antonio Spurs",-3,8,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-02,2017,6475,1610612744,400975520,3,5,51,1,"Cutting Layup Shot","2PT Field Goal",1,"Sacramento Kings",-11,5,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-02,2017,6475,1610612744,400975520,3,11,10,1,"Cutting Layup Shot","2PT Field Goal",1,"Sacramento Kings",-19,6,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-01,2017,6475,1610612744,400975069,4,7,44,1,"Cutting Layup Shot","2PT Field Goal",1,"Orlando Magic",-5,10,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-08,2017,6475,1610612744,400975561,4,5,30,1,"Cutting Layup Shot","2PT Field Goal",7,"Dallas Mavericks",-64,32,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-07,2017,6475,1610612744,400975941,1,4,37,1,"Cutting Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",0,10,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-06,2017,6475,1610612744,400975549,2,7,21,1,"Cutting Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",10,16,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-22,2017,6475,1610612744,400975014,2,11,13,0,"Cutting Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",0,25,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-11,2017,6475,1610612744,400974935,2,10,30,1,"Cutting Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",8,10,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-03,2017,6475,1610612744,400975909,4,6,56,0,"Cutting Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-15,9,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-20,2017,6475,1610612744,400975215,2,11,14,1,"Cutting Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-12,11,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-20,2017,6475,1610612744,400975215,4,8,25,0,"Cutting Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",7,17,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-29,2017,6475,1610612744,400975274,2,11,06,1,"Cutting Layup Shot","2PT Field Goal",0,"Charlotte Hornets",3,4,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-20,2017,6475,1610612744,400975215,2,6,31,1,"Cutting Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",11,8,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-04,2017,6475,1610612744,400974886,2,9,35,0,"Cutting Layup Shot","2PT Field Goal",2,"Denver Nuggets",20,16,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-12,2017,6475,1610612744,400975368,2,3,29,0,"Cutting Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",-10,19,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-23,2017,6475,1610612744,400975445,3,7,40,1,"Cutting Layup Shot","2PT Field Goal",2,"New York Knicks",12,16,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-27,2017,6475,1610612744,400975047,1,10,10,1,"Cutting Layup Shot","2PT Field Goal",2,"Sacramento Kings",-18,21,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-14,2017,6475,1610612744,400975610,2,7,29,0,"Cutting Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-20,8,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-03,2017,6475,1610612744,400975308,2,9,41,1,"Cutting Layup Shot","2PT Field Goal",0,"Dallas Mavericks",8,5,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-03,2017,6475,1610612744,400975308,1,11,44,1,"Cutting Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-20,0,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-25,2017,6475,1610612744,400974814,4,2,36,1,"Cutting Layup Shot","2PT Field Goal",1,"Toronto Raptors",7,13,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-01,2017,6475,1610612744,400975069,3,6,53,1,"Cutting Layup Shot","2PT Field Goal",0,"Orlando Magic",7,3,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-03,2017,6475,1610612744,400975086,3,7,56,1,"Cutting Layup Shot","2PT Field Goal",1,"Miami Heat",-3,11,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-03,2017,6475,1610612744,400975308,4,8,05,1,"Cutting Layup Shot","2PT Field Goal",1,"Dallas Mavericks",5,10,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-25,2017,6475,1610612744,400974814,1,9,54,0,"Cutting Layup Shot","2PT Field Goal",2,"Toronto Raptors",0,20,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-03,2017,6475,1610612744,400975308,3,5,48,1,"Cutting Layup Shot","2PT Field Goal",1,"Dallas Mavericks",16,5,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-26,2017,6475,1610612744,400975646,1,11,44,1,"Cutting Layup Shot","2PT Field Goal",1,"New York Knicks",1,11,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-25,2017,6475,1610612744,400974814,3,10,42,1,"Cutting Layup Shot","2PT Field Goal",1,"Toronto Raptors",-14,13,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-19,2017,6475,1610612744,400974987,2,8,46,1,"Cutting Layup Shot","2PT Field Goal",1,"Brooklyn Nets",13,5,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-27,2017,6475,1610612744,400974826,1,11,13,1,"Cutting Layup Shot","2PT Field Goal",4,"Washington Wizards",-2,42,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-30,2017,6475,1610612744,400974851,4,9,03,1,"Cutting Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",1,6,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-27,2017,6475,1610612744,400974826,4,7,27,1,"Cutting Layup Shot","2PT Field Goal",0,"Washington Wizards",6,1,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-22,2017,6475,1610612744,400975618,3,4,38,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",6,20,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-27,2017,6475,1610612744,400975260,1,7,27,0,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Utah Jazz",-22,20,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-03,2017,6475,1610612744,400975086,2,9,11,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Miami Heat",-11,1,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-03,2017,6475,1610612744,400975086,2,7,30,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Miami Heat",-9,2,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-24,2017,6475,1610612744,400975027,1,3,55,0,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Chicago Bulls",-6,22,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-14,2017,6475,1610612744,400975610,1,6,32,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",1,17,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-14,2017,6475,1610612744,400975168,4,11,15,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-15,14,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-13,2017,6475,1610612744,400975377,3,10,31,1,"Driving Floating Bank Jump Shot","2PT Field Goal",6,"Toronto Raptors",-51,41,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-30,2017,6475,1610612744,400975497,2,6,32,1,"Driving Floating Jump Shot","2PT Field Goal",13,"Utah Jazz",134,4,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-13,2017,6475,1610612744,400975377,1,10,44,1,"Driving Floating Jump Shot","2PT Field Goal",13,"Toronto Raptors",45,132,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-13,2017,6475,1610612744,400975377,3,9,23,1,"Driving Floating Jump Shot","2PT Field Goal",13,"Toronto Raptors",51,128,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-13,2017,6475,1610612744,400975377,4,10,49,0,"Driving Floating Jump Shot","2PT Field Goal",8,"Toronto Raptors",-19,78,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-19,2017,6475,1610612744,400974987,3,6,56,1,"Driving Floating Jump Shot","2PT Field Goal",14,"Brooklyn Nets",49,136,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-04,2017,6475,1610612744,400975312,4,6,31,0,"Driving Floating Jump Shot","2PT Field Goal",6,"Houston Rockets",6,69,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-23,2017,6475,1610612744,400975240,3,10,36,1,"Driving Floating Jump Shot","2PT Field Goal",8,"Denver Nuggets",-16,83,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-27,2017,6475,1610612744,400975260,3,7,33,0,"Driving Floating Jump Shot","2PT Field Goal",4,"Utah Jazz",-7,46,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-17,2017,6475,1610612744,400975403,1,10,06,0,"Driving Floating Jump Shot","2PT Field Goal",13,"Chicago Bulls",3,132,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,4,5,52,1,"Driving Floating Jump Shot","2PT Field Goal",9,"Utah Jazz",-13,94,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-04,2017,6475,1610612744,400975312,4,9,57,1,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",-6,12,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-12,2017,6475,1610612744,400975592,2,11,24,0,"Driving Layup Shot","2PT Field Goal",1,"Phoenix Suns",9,15,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-01,2017,6475,1610612744,400975899,2,5,54,1,"Driving Layup Shot","2PT Field Goal",2,"Phoenix Suns",5,20,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-17,2017,6475,1610612744,400975403,4,3,35,0,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",0,17,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-12,2017,6475,1610612744,400975368,4,4,39,0,"Driving Layup Shot","2PT Field Goal",4,"Milwaukee Bucks",4,45,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-17,2017,6475,1610612744,400975403,4,2,35,1,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",-8,15,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-27,2017,6475,1610612744,400974826,2,7,18,1,"Driving Layup Shot","2PT Field Goal",1,"Washington Wizards",16,8,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,3,3,58,0,"Driving Layup Shot","2PT Field Goal",3,"Utah Jazz",29,26,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,3,9,39,0,"Driving Layup Shot","2PT Field Goal",6,"Utah Jazz",55,26,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-24,2017,6475,1610612744,400975027,1,4,45,1,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",-19,8,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-19,2017,6475,1610612744,400974987,1,6,32,0,"Driving Layup Shot","2PT Field Goal",3,"Brooklyn Nets",6,32,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-31,2017,6475,1610612744,400975888,2,2,41,1,"Driving Layup Shot","2PT Field Goal",3,"Sacramento Kings",24,27,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-02,2017,6475,1610612744,400975520,3,9,29,1,"Driving Layup Shot","2PT Field Goal",1,"Sacramento Kings",16,11,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-29,2017,6475,1610612744,400975063,2,0,30,0,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",4,16,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-31,2017,6475,1610612744,400975888,2,4,05,0,"Driving Layup Shot","2PT Field Goal",4,"Sacramento Kings",-38,15,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-04,2017,6475,1610612744,400975312,4,1,22,0,"Driving Layup Shot","2PT Field Goal",4,"Houston Rockets",36,26,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-03,2017,6475,1610612744,400975909,2,1,53,0,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",15,4,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-22,2017,6475,1610612744,400975230,2,9,49,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",6,13,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-22,2017,6475,1610612744,400975230,1,11,05,1,"Driving Layup Shot","2PT Field Goal",4,"Los Angeles Lakers",4,42,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,3,8,03,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Utah Jazz",15,5,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-01,2017,6475,1610612744,400975899,3,11,24,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Phoenix Suns",9,7,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-29,2017,6475,1610612744,400974842,1,10,40,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Detroit Pistons",2,5,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-01,2017,6475,1610612744,400975899,1,9,39,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Phoenix Suns",7,19,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-10,2017,6475,1610612744,400975577,3,8,20,1,"Dunk Shot","2PT Field Goal",1,"San Antonio Spurs",9,12,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-22,2017,6475,1610612744,400975618,1,7,21,1,"Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",-5,8,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-22,2017,6475,1610612744,400975618,2,10,05,1,"Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",-2,6,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-08,2017,6475,1610612744,400974914,4,7,44,1,"Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",2,8,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-03,2017,6475,1610612744,400975528,1,4,30,1,"Dunk Shot","2PT Field Goal",1,"Denver Nuggets",-2,14,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-29,2017,6475,1610612744,400975063,2,7,45,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",82,148,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-30,2017,6475,1610612744,400974851,1,10,47,0,"Fadeaway Jump Shot","2PT Field Goal",6,"Los Angeles Clippers",62,26,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-22,2017,6475,1610612744,400975618,2,7,23,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Los Angeles Clippers",-99,18,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-24,2017,6475,1610612744,400975027,2,1,12,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Chicago Bulls",-94,71,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-08,2017,6475,1610612744,400975343,3,6,06,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Denver Nuggets",153,25,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-30,2017,6475,1610612744,400975497,3,9,20,1,"Fadeaway Jump Shot","2PT Field Goal",17,"Utah Jazz",78,155,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,3,4,26,1,"Fadeaway Jump Shot","2PT Field Goal",18,"Utah Jazz",-122,139,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-03,2017,6475,1610612744,400975528,2,6,38,0,"Fadeaway Jump Shot","3PT Field Goal",24,"Denver Nuggets",209,135,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-27,2017,6475,1610612744,400975474,3,4,57,1,"Fadeaway Jump Shot","2PT Field Goal",13,"Boston Celtics",41,128,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-29,2017,6475,1610612744,400974842,4,7,41,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Detroit Pistons",-101,108,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-23,2017,6475,1610612744,400974796,1,6,11,1,"Fadeaway Jump Shot","2PT Field Goal",13,"Dallas Mavericks",131,37,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-16,2017,6475,1610612744,400974966,1,6,06,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Boston Celtics",-97,40,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-08,2017,6475,1610612744,400975119,4,4,31,1,"Fadeaway Jump Shot","2PT Field Goal",9,"Detroit Pistons",97,16,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-27,2017,6475,1610612744,400975047,1,5,52,1,"Fadeaway Jump Shot","2PT Field Goal",13,"Sacramento Kings",130,37,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-23,2017,6475,1610612744,400975445,4,8,32,1,"Fadeaway Jump Shot","2PT Field Goal",8,"New York Knicks",-74,38,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-06,2017,6475,1610612744,400974899,2,11,05,1,"Fadeaway Jump Shot","2PT Field Goal",6,"Miami Heat",-8,65,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-27,2017,6475,1610612744,400975474,2,8,12,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Boston Celtics",143,40,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-12,2017,6475,1610612744,400975368,1,3,59,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Milwaukee Bucks",5,129,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-12,2017,6475,1610612744,400975368,4,6,12,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Milwaukee Bucks",-70,128,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-13,2017,6475,1610612744,400975377,2,5,36,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Toronto Raptors",74,135,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-05,2017,6475,1610612744,400975921,2,2,52,1,"Fadeaway Jump Shot","2PT Field Goal",13,"Indiana Pacers",-134,35,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,2,5,41,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Utah Jazz",6,147,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-13,2017,6475,1610612744,400975377,2,8,25,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Toronto Raptors",-119,26,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,3,1,13,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Utah Jazz",116,58,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-05,2017,6475,1610612744,400975921,3,11,21,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Indiana Pacers",176,5,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-20,2017,6475,1610612744,400975215,3,7,06,0,"Finger Roll Layup Shot","2PT Field Goal",9,"Memphis Grizzlies",-36,84,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-06,2017,6475,1610612744,400975549,4,7,12,1,"Floating Jump shot","2PT Field Goal",13,"Oklahoma City Thunder",-40,127,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-27,2017,6475,1610612744,400975047,2,2,51,0,"Floating Jump shot","2PT Field Goal",11,"Sacramento Kings",-3,118,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-12,2017,6475,1610612744,400975592,3,5,37,1,"Floating Jump shot","2PT Field Goal",13,"Phoenix Suns",128,33,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-06,2017,6475,1610612744,400975109,3,4,47,1,"Floating Jump shot","2PT Field Goal",13,"Charlotte Hornets",-23,128,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-29,2017,6475,1610612744,400974842,1,11,12,1,"Floating Jump shot","2PT Field Goal",18,"Detroit Pistons",-7,180,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-16,2017,6475,1610612744,400974966,3,10,39,1,"Floating Jump shot","2PT Field Goal",18,"Boston Celtics",101,151,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-31,2017,6475,1610612744,400975888,4,7,17,1,"Floating Jump shot","2PT Field Goal",15,"Sacramento Kings",109,109,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-03,2017,6475,1610612744,400975909,2,9,35,1,"Floating Jump shot","2PT Field Goal",11,"Oklahoma City Thunder",-50,100,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-23,2017,6475,1610612744,400975240,2,9,28,1,"Floating Jump shot","2PT Field Goal",12,"Denver Nuggets",-2,121,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-07,2017,6475,1610612744,400975941,3,9,58,0,"Hook Shot","2PT Field Goal",5,"New Orleans Pelicans",-38,36,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-18,2017,6475,1610612744,400974982,2,2,33,0,"Hook Shot","2PT Field Goal",5,"Philadelphia 76ers",43,-29,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-08,2017,6475,1610612744,400975343,1,6,34,0,"Jump Bank Shot","2PT Field Goal",9,"Denver Nuggets",73,57,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-08,2017,6475,1610612744,400975561,4,8,14,1,"Jump Bank Shot","2PT Field Goal",4,"Dallas Mavericks",23,42,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-02,2017,6475,1610612744,400975674,3,7,25,1,"Jump Bank Shot","2PT Field Goal",18,"Atlanta Hawks",144,115,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-22,2017,6475,1610612744,400975230,1,5,52,1,"Jump Bank Shot","2PT Field Goal",14,"Los Angeles Lakers",119,86,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-08,2017,6475,1610612744,400975119,2,7,43,0,"Jump Bank Shot","3PT Field Goal",25,"Detroit Pistons",-201,152,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-02,2017,6475,1610612744,400975674,3,8,45,1,"Jump Shot","2PT Field Goal",19,"Atlanta Hawks",198,0,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-30,2017,6475,1610612744,400974851,4,9,09,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",186,168,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-30,2017,6475,1610612744,400974851,3,9,01,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",70,132,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-02,2017,6475,1610612744,400975674,1,6,26,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-145,205,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-17,2017,6475,1610612744,400974438,3,3,49,0,"Jump Shot","2PT Field Goal",20,"Houston Rockets",110,173,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-17,2017,6475,1610612744,400974438,3,9,11,1,"Jump Shot","2PT Field Goal",21,"Houston Rockets",-209,46,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-17,2017,6475,1610612744,400974438,1,10,05,1,"Jump Shot","2PT Field Goal",21,"Houston Rockets",-142,163,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-17,2017,6475,1610612744,400974438,4,4,52,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",158,205,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-17,2017,6475,1610612744,400974438,1,6,24,0,"Jump Shot","2PT Field Goal",21,"Houston Rockets",55,209,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-17,2017,6475,1610612744,400974438,3,8,25,0,"Jump Shot","3PT Field Goal",22,"Houston Rockets",226,19,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-17,2017,6475,1610612744,400974438,1,9,00,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",150,209,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-17,2017,6475,1610612744,400974438,1,10,30,1,"Jump Shot","3PT Field Goal",22,"Houston Rockets",-228,16,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-17,2017,6475,1610612744,400974438,1,3,28,0,"Jump Shot","2PT Field Goal",18,"Houston Rockets",-116,141,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-30,2017,6475,1610612744,400975281,4,6,56,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",61,250,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-25,2017,6475,1610612744,400975459,4,4,16,1,"Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",187,187,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-17,2017,6475,1610612744,400975403,4,11,27,1,"Jump Shot","2PT Field Goal",16,"Chicago Bulls",-6,167,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-30,2017,6475,1610612744,400974851,2,2,01,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-130,230,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-30,2017,6475,1610612744,400974851,2,0,01,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",201,168,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-03,2017,6475,1610612744,400975909,3,7,41,0,"Jump Shot","2PT Field Goal",13,"Oklahoma City Thunder",11,132,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-03,2017,6475,1610612744,400975086,3,4,52,1,"Jump Shot","3PT Field Goal",23,"Miami Heat",-226,43,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-04,2017,6475,1610612744,400975312,2,3,08,1,"Jump Shot","2PT Field Goal",20,"Houston Rockets",54,199,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-04,2017,6475,1610612744,400975312,1,6,33,0,"Jump Shot","3PT Field Goal",26,"Houston Rockets",-59,256,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-04,2017,6475,1610612744,400975312,2,8,56,0,"Jump Shot","2PT Field Goal",21,"Houston Rockets",158,143,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-04,2017,6475,1610612744,400975312,2,0,59,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",116,230,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-04,2017,6475,1610612744,400975312,4,8,06,1,"Jump Shot","3PT Field Goal",26,"Houston Rockets",-161,207,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-04,2017,6475,1610612744,400975312,1,10,06,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",236,62,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-04,2017,6475,1610612744,400975312,2,1,45,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-160,203,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-04,2017,6475,1610612744,400975312,4,5,32,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-107,227,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-04,2017,6475,1610612744,400975312,4,3,22,0,"Jump Shot","3PT Field Goal",27,"Houston Rockets",189,201,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-04,2017,6475,1610612744,400975312,3,5,26,1,"Jump Shot","3PT Field Goal",23,"Houston Rockets",-229,38,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-03,2017,6475,1610612744,400975086,4,8,27,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-25,256,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-04,2017,6475,1610612744,400974886,1,6,05,0,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",186,2,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-23,2017,6475,1610612744,400975445,3,11,11,1,"Jump Shot","2PT Field Goal",17,"New York Knicks",-105,136,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-04,2017,6475,1610612744,400974886,1,7,35,1,"Jump Shot","2PT Field Goal",21,"Denver Nuggets",-177,121,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-04,2017,6475,1610612744,400974886,4,8,08,0,"Jump Shot","3PT Field Goal",27,"Denver Nuggets",-182,205,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-04,2017,6475,1610612744,400974886,2,0,02,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-32,256,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-04,2017,6475,1610612744,400974886,1,10,49,1,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",-234,1,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-04,2017,6475,1610612744,400974886,1,5,17,1,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",-228,-7,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-03,2017,6475,1610612744,400975086,3,4,18,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",175,188,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-03,2017,6475,1610612744,400975086,1,10,26,0,"Jump Shot","3PT Field Goal",22,"Miami Heat",227,2,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-03,2017,6475,1610612744,400975086,1,4,25,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-191,175,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-03,2017,6475,1610612744,400975086,1,8,46,1,"Jump Shot","3PT Field Goal",25,"Miami Heat",-17,258,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-03,2017,6475,1610612744,400975086,2,6,51,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",90,235,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-03,2017,6475,1610612744,400975086,4,9,54,0,"Jump Shot","2PT Field Goal",13,"Miami Heat",45,130,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-03,2017,6475,1610612744,400975086,4,10,48,1,"Jump Shot","2PT Field Goal",21,"Miami Heat",143,167,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-23,2017,6475,1610612744,400975445,1,4,35,0,"Jump Shot","2PT Field Goal",19,"New York Knicks",98,169,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-23,2017,6475,1610612744,400975445,1,4,55,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",230,89,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-23,2017,6475,1610612744,400975445,1,3,58,0,"Jump Shot","3PT Field Goal",23,"New York Knicks",-230,18,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-23,2017,6475,1610612744,400975445,1,6,23,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-142,214,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-23,2017,6475,1610612744,400975445,4,9,03,0,"Jump Shot","2PT Field Goal",14,"New York Knicks",61,132,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-22,2017,6475,1610612744,400975618,3,6,14,0,"Jump Shot","2PT Field Goal",23,"Los Angeles Clippers",104,207,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-22,2017,6475,1610612744,400975618,3,11,20,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",155,206,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-22,2017,6475,1610612744,400975618,2,2,50,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",-230,49,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-13,2017,6475,1610612744,400975377,1,5,03,1,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",-4,266,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-13,2017,6475,1610612744,400975377,1,4,32,0,"Jump Shot","2PT Field Goal",20,"Toronto Raptors",63,199,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-13,2017,6475,1610612744,400975377,1,6,45,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-215,129,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-13,2017,6475,1610612744,400975377,2,10,19,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-199,152,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-13,2017,6475,1610612744,400975377,1,9,20,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",93,230,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-13,2017,6475,1610612744,400975377,2,6,27,0,"Jump Shot","3PT Field Goal",27,"Toronto Raptors",204,183,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-13,2017,6475,1610612744,400975377,2,9,57,1,"Jump Shot","2PT Field Goal",20,"Toronto Raptors",174,110,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-08,2017,6475,1610612744,400975561,2,11,19,1,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",116,173,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-27,2017,6475,1610612744,400975047,2,6,21,0,"Jump Shot","2PT Field Goal",10,"Sacramento Kings",97,25,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-27,2017,6475,1610612744,400975047,2,5,50,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",150,207,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-27,2017,6475,1610612744,400975047,3,5,45,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",144,208,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-27,2017,6475,1610612744,400975047,3,11,35,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-194,157,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-27,2017,6475,1610612744,400975047,1,10,35,0,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",198,16,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-27,2017,6475,1610612744,400975047,2,4,08,0,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-210,168,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-27,2017,6475,1610612744,400975047,4,2,45,0,"Jump Shot","3PT Field Goal",28,"Sacramento Kings",-205,193,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-05,2017,6475,1610612744,400975921,2,8,39,1,"Jump Shot","3PT Field Goal",27,"Indiana Pacers",119,247,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-29,2017,6475,1610612744,400974842,1,7,57,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",227,85,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-29,2017,6475,1610612744,400974842,1,9,29,0,"Jump Shot","2PT Field Goal",19,"Detroit Pistons",-142,130,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-05,2017,6475,1610612744,400975921,2,0,44,0,"Jump Shot","3PT Field Goal",27,"Indiana Pacers",204,178,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-13,2017,6475,1610612744,400974950,2,1,33,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-220,133,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-13,2017,6475,1610612744,400974950,3,4,58,0,"Jump Shot","2PT Field Goal",11,"Orlando Magic",-3,114,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-13,2017,6475,1610612744,400974950,4,6,24,0,"Jump Shot","2PT Field Goal",11,"Orlando Magic",32,114,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-13,2017,6475,1610612744,400974950,1,7,53,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",169,191,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-13,2017,6475,1610612744,400974950,4,11,12,0,"Jump Shot","2PT Field Goal",21,"Orlando Magic",3,212,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-13,2017,6475,1610612744,400974950,4,9,33,1,"Jump Shot","2PT Field Goal",16,"Orlando Magic",160,14,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-08,2017,6475,1610612744,400975561,3,8,55,0,"Jump Shot","3PT Field Goal",26,"Dallas Mavericks",104,247,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-08,2017,6475,1610612744,400975561,2,2,06,0,"Jump Shot","3PT Field Goal",26,"Dallas Mavericks",4,267,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-08,2017,6475,1610612744,400975561,2,1,37,0,"Jump Shot","3PT Field Goal",27,"Dallas Mavericks",-172,212,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-08,2017,6475,1610612744,400975561,2,7,36,0,"Jump Shot","3PT Field Goal",26,"Dallas Mavericks",-30,263,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-08,2017,6475,1610612744,400975561,1,10,24,1,"Jump Shot","2PT Field Goal",21,"Dallas Mavericks",-197,97,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-08,2017,6475,1610612744,400975561,4,10,08,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",177,174,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-08,2017,6475,1610612744,400975561,1,11,41,1,"Jump Shot","2PT Field Goal",21,"Dallas Mavericks",139,159,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-08,2017,6475,1610612744,400975561,3,10,39,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",22,256,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-05,2017,6475,1610612744,400975921,2,0,20,1,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",240,17,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-05,2017,6475,1610612744,400975921,3,8,59,0,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",174,195,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-29,2017,6475,1610612744,400974842,3,5,29,1,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",128,126,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-29,2017,6475,1610612744,400974842,3,10,33,0,"Jump Shot","3PT Field Goal",29,"Detroit Pistons",76,287,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-29,2017,6475,1610612744,400974842,1,5,34,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",169,199,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-04,2017,6475,1610612744,400975097,4,10,56,0,"Jump Shot","2PT Field Goal",12,"New Orleans Pelicans",122,32,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-21,2017,6475,1610612744,400974784,4,7,44,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",155,199,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-21,2017,6475,1610612744,400974784,3,10,01,0,"Jump Shot","2PT Field Goal",9,"Memphis Grizzlies",-96,9,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-21,2017,6475,1610612744,400974784,1,9,33,1,"Jump Shot","2PT Field Goal",14,"Memphis Grizzlies",53,130,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-21,2017,6475,1610612744,400974784,2,0,00,0,"Jump Shot","3PT Field Goal",64,"Memphis Grizzlies",-137,632,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-21,2017,6475,1610612744,400974784,3,8,06,0,"Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",-21,161,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-21,2017,6475,1610612744,400974784,1,11,16,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",220,132,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-06,2017,6475,1610612744,400974899,4,7,23,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-14,253,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-06,2017,6475,1610612744,400974899,2,3,44,0,"Jump Shot","3PT Field Goal",26,"Miami Heat",-107,241,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-06,2017,6475,1610612744,400974899,3,11,35,0,"Jump Shot","2PT Field Goal",13,"Miami Heat",-116,75,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-06,2017,6475,1610612744,400974899,2,3,24,0,"Jump Shot","2PT Field Goal",5,"Miami Heat",59,1,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-06,2017,6475,1610612744,400974899,1,6,40,0,"Jump Shot","3PT Field Goal",26,"Miami Heat",-193,183,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-06,2017,6475,1610612744,400974899,2,8,36,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",168,188,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-06,2017,6475,1610612744,400974899,1,5,33,1,"Jump Shot","2PT Field Goal",19,"Miami Heat",-90,172,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-06,2017,6475,1610612744,400974899,3,10,16,1,"Jump Shot","3PT Field Goal",27,"Miami Heat",161,229,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-06,2017,6475,1610612744,400974899,1,9,26,0,"Jump Shot","3PT Field Goal",26,"Miami Heat",89,248,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-06,2017,6475,1610612744,400974899,4,9,12,0,"Jump Shot","2PT Field Goal",17,"Miami Heat",109,134,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-06,2017,6475,1610612744,400974899,4,10,56,0,"Jump Shot","2PT Field Goal",18,"Miami Heat",-78,164,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-06,2017,6475,1610612744,400974899,2,2,02,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",160,190,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-06,2017,6475,1610612744,400974899,3,6,45,1,"Jump Shot","3PT Field Goal",25,"Miami Heat",127,225,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-22,2017,6475,1610612744,400975230,3,10,56,0,"Jump Shot","3PT Field Goal",22,"Los Angeles Lakers",-226,36,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-22,2017,6475,1610612744,400975230,2,10,53,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-188,179,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-22,2017,6475,1610612744,400975230,1,10,30,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-164,201,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-22,2017,6475,1610612744,400975230,2,9,33,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-226,89,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-22,2017,6475,1610612744,400975230,2,1,27,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Lakers",-142,55,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-22,2017,6475,1610612744,400975230,1,9,19,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",233,53,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-22,2017,6475,1610612744,400975230,1,4,46,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",222,76,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-22,2017,6475,1610612744,400975230,4,6,37,0,"Jump Shot","2PT Field Goal",8,"Los Angeles Lakers",71,45,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-22,2017,6475,1610612744,400975230,3,10,01,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",231,-15,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-22,2017,6475,1610612744,400975230,4,8,17,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-183,179,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-05,2017,6475,1610612744,400975921,4,8,17,0,"Jump Shot","3PT Field Goal",27,"Indiana Pacers",152,226,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-05,2017,6475,1610612744,400975921,2,7,48,1,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",-182,190,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-05,2017,6475,1610612744,400975921,2,11,33,1,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",141,141,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-29,2017,6475,1610612744,400975274,2,10,39,0,"Jump Shot","2PT Field Goal",21,"Charlotte Hornets",120,176,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-29,2017,6475,1610612744,400975274,4,5,30,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-179,194,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-29,2017,6475,1610612744,400975274,1,9,14,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-206,160,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-29,2017,6475,1610612744,400975274,2,7,00,1,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-181,28,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-29,2017,6475,1610612744,400975274,1,10,10,1,"Jump Shot","3PT Field Goal",27,"Charlotte Hornets",145,232,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-29,2017,6475,1610612744,400975274,4,6,03,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-167,180,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-29,2017,6475,1610612744,400975274,3,9,56,0,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",-4,178,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-29,2017,6475,1610612744,400975274,3,10,31,1,"Jump Shot","2PT Field Goal",12,"Charlotte Hornets",-6,127,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-29,2017,6475,1610612744,400975274,1,11,25,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",160,204,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-29,2017,6475,1610612744,400975274,2,6,22,0,"Jump Shot","2PT Field Goal",20,"Charlotte Hornets",-22,205,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-29,2017,6475,1610612744,400975274,2,8,31,0,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",140,130,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-29,2017,6475,1610612744,400975274,1,8,55,1,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",118,153,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-29,2017,6475,1610612744,400975274,2,2,43,0,"Jump Shot","2PT Field Goal",15,"Charlotte Hornets",138,69,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-05,2017,6475,1610612744,400975921,2,8,19,0,"Jump Shot","3PT Field Goal",27,"Indiana Pacers",204,184,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-05,2017,6475,1610612744,400975921,1,11,04,1,"Jump Shot","3PT Field Goal",27,"Indiana Pacers",159,224,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-23,2017,6475,1610612744,400974796,3,4,50,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-224,115,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-17,2017,6475,1610612744,400974438,4,6,46,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-105,231,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-04,2017,6475,1610612744,400975097,2,6,57,0,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",-4,162,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-04,2017,6475,1610612744,400975097,3,11,15,1,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-103,241,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-04,2017,6475,1610612744,400975097,4,2,30,1,"Jump Shot","2PT Field Goal",8,"New Orleans Pelicans",-83,2,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-04,2017,6475,1610612744,400975097,4,9,12,1,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",152,212,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-04,2017,6475,1610612744,400975097,1,9,10,1,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",-168,104,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-04,2017,6475,1610612744,400975097,4,7,53,1,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",119,236,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-04,2017,6475,1610612744,400975097,3,3,20,1,"Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",68,128,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-04,2017,6475,1610612744,400975097,3,10,23,0,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",-183,-1,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-04,2017,6475,1610612744,400975097,1,11,28,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-157,184,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-04,2017,6475,1610612744,400975097,3,5,01,1,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",-203,181,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-02,2017,6475,1610612744,400975674,4,9,15,0,"Jump Shot","2PT Field Goal",19,"Atlanta Hawks",-69,184,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-02,2017,6475,1610612744,400975674,4,7,06,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",50,240,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-17,2017,6475,1610612744,400975403,1,7,13,1,"Jump Shot","2PT Field Goal",15,"Chicago Bulls",-11,159,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-17,2017,6475,1610612744,400975403,4,9,18,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-147,200,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-17,2017,6475,1610612744,400975403,4,8,17,1,"Jump Shot","2PT Field Goal",21,"Chicago Bulls",-69,205,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-17,2017,6475,1610612744,400975403,4,7,18,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-32,243,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-17,2017,6475,1610612744,400975403,2,6,01,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-130,220,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-17,2017,6475,1610612744,400975403,2,11,39,0,"Jump Shot","3PT Field Goal",27,"Chicago Bulls",133,244,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-17,2017,6475,1610612744,400975403,2,0,27,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",30,258,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-17,2017,6475,1610612744,400975403,3,11,17,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-118,214,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-17,2017,6475,1610612744,400975403,4,7,40,1,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",232,3,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-10,2017,6475,1610612744,400975577,4,10,12,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-104,236,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-10,2017,6475,1610612744,400975577,4,10,33,1,"Jump Shot","2PT Field Goal",16,"San Antonio Spurs",136,92,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-10,2017,6475,1610612744,400975577,4,11,27,0,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",67,186,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-01,2017,6475,1610612744,400975069,3,8,20,0,"Jump Shot","3PT Field Goal",26,"Orlando Magic",-37,260,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-06,2017,6475,1610612744,400975109,2,3,07,1,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",232,11,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-06,2017,6475,1610612744,400975109,1,7,24,1,"Jump Shot","2PT Field Goal",13,"Charlotte Hornets",40,131,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-06,2017,6475,1610612744,400975109,4,11,40,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",216,141,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-06,2017,6475,1610612744,400975109,1,11,17,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",117,231,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-06,2017,6475,1610612744,400975109,4,6,05,1,"Jump Shot","2PT Field Goal",13,"Charlotte Hornets",-14,130,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-06,2017,6475,1610612744,400975109,4,11,19,1,"Jump Shot","2PT Field Goal",20,"Charlotte Hornets",-141,151,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-06,2017,6475,1610612744,400975109,2,7,58,1,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",168,46,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-06,2017,6475,1610612744,400975109,4,4,50,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-109,233,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-06,2017,6475,1610612744,400975109,1,10,22,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",221,130,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-06,2017,6475,1610612744,400975109,2,11,25,0,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",-90,135,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-07,2017,6475,1610612744,400975941,4,7,08,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-15,253,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-24,2017,6475,1610612744,400975633,1,3,21,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-234,23,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-25,2017,6475,1610612744,400974814,2,4,20,1,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",119,226,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-27,2017,6475,1610612744,400975474,2,1,08,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-162,194,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-27,2017,6475,1610612744,400975474,3,9,50,0,"Jump Shot","3PT Field Goal",22,"Boston Celtics",226,22,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-27,2017,6475,1610612744,400975474,3,7,54,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",-235,29,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-27,2017,6475,1610612744,400975474,4,10,35,0,"Jump Shot","2PT Field Goal",12,"Boston Celtics",0,127,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-10,2017,6475,1610612744,400975577,3,9,15,1,"Jump Shot","2PT Field Goal",13,"San Antonio Spurs",131,-5,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-25,2017,6475,1610612744,400974814,4,9,02,0,"Jump Shot","2PT Field Goal",9,"Toronto Raptors",-90,39,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-25,2017,6475,1610612744,400974814,2,10,54,0,"Jump Shot","2PT Field Goal",11,"Toronto Raptors",111,37,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-25,2017,6475,1610612744,400974814,1,10,54,0,"Jump Shot","2PT Field Goal",16,"Toronto Raptors",-105,131,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-08,2017,6475,1610612744,400975119,1,9,25,0,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",-86,167,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-25,2017,6475,1610612744,400974814,1,5,57,1,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",184,181,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-25,2017,6475,1610612744,400974814,2,0,06,1,"Jump Shot","2PT Field Goal",21,"Toronto Raptors",163,146,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-23,2017,6475,1610612744,400975240,1,4,30,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",147,218,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-23,2017,6475,1610612744,400975240,3,7,20,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",144,216,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-23,2017,6475,1610612744,400975240,2,7,15,0,"Jump Shot","2PT Field Goal",13,"Denver Nuggets",67,118,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-23,2017,6475,1610612744,400975240,2,7,51,0,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",222,11,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-23,2017,6475,1610612744,400975240,2,11,06,1,"Jump Shot","2PT Field Goal",21,"Denver Nuggets",-180,117,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-23,2017,6475,1610612744,400975240,3,5,17,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-138,213,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-23,2017,6475,1610612744,400975240,1,10,34,0,"Jump Shot","3PT Field Goal",27,"Denver Nuggets",113,246,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-23,2017,6475,1610612744,400975240,3,8,50,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",141,215,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-23,2017,6475,1610612744,400975240,3,7,18,0,"Jump Shot","2PT Field Goal",10,"Denver Nuggets",100,44,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-23,2017,6475,1610612744,400975240,3,5,10,0,"Jump Shot","2PT Field Goal",13,"Denver Nuggets",-63,122,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-23,2017,6475,1610612744,400975240,1,8,53,0,"Jump Shot","2PT Field Goal",13,"Denver Nuggets",63,119,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-23,2017,6475,1610612744,400975240,4,7,55,1,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",-228,-16,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-22,2017,6475,1610612744,400975014,2,11,35,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-6,248,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-22,2017,6475,1610612744,400975014,1,9,05,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",233,-4,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-22,2017,6475,1610612744,400975014,3,4,21,1,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-221,92,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-22,2017,6475,1610612744,400975014,3,11,20,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",190,163,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-22,2017,6475,1610612744,400975014,1,10,32,1,"Jump Shot","3PT Field Goal",32,"Oklahoma City Thunder",-175,268,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-22,2017,6475,1610612744,400975014,3,10,13,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-118,218,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-23,2017,6475,1610612744,400975240,2,2,45,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-93,237,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-23,2017,6475,1610612744,400975240,3,5,50,0,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",231,62,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-08,2017,6475,1610612744,400975119,4,8,25,0,"Jump Shot","2PT Field Goal",22,"Detroit Pistons",117,190,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-25,2017,6475,1610612744,400974446,1,3,35,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-229,91,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-25,2017,6475,1610612744,400974446,3,9,49,1,"Jump Shot","2PT Field Goal",11,"Cleveland Cavaliers",-2,115,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-24,2017,6475,1610612744,400975633,2,9,37,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",225,21,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-24,2017,6475,1610612744,400975633,4,6,26,1,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-231,-12,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-24,2017,6475,1610612744,400975633,2,11,45,1,"Jump Shot","2PT Field Goal",22,"Oklahoma City Thunder",41,219,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-24,2017,6475,1610612744,400975633,1,10,58,0,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",-131,230,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-24,2017,6475,1610612744,400975633,4,5,42,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",171,193,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-24,2017,6475,1610612744,400975633,2,10,35,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-229,55,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-24,2017,6475,1610612744,400975633,3,4,09,0,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",197,172,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-24,2017,6475,1610612744,400975633,3,8,33,0,"Jump Shot","3PT Field Goal",27,"Oklahoma City Thunder",144,231,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-24,2017,6475,1610612744,400975633,2,0,29,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",220,120,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-24,2017,6475,1610612744,400975633,4,5,32,1,"Jump Shot","2PT Field Goal",11,"Oklahoma City Thunder",-2,117,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-18,2017,6475,1610612744,400974982,4,8,15,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",-92,148,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-18,2017,6475,1610612744,400974982,3,9,57,0,"Jump Shot","2PT Field Goal",15,"Philadelphia 76ers",55,148,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-01,2017,6475,1610612744,400975069,4,4,05,1,"Jump Shot","3PT Field Goal",26,"Orlando Magic",138,231,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-01,2017,6475,1610612744,400975069,2,9,02,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-186,178,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-01,2017,6475,1610612744,400975069,4,8,40,1,"Jump Shot","3PT Field Goal",26,"Orlando Magic",129,231,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-01,2017,6475,1610612744,400975069,4,10,57,0,"Jump Shot","2PT Field Goal",20,"Orlando Magic",27,200,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-02,2017,6475,1610612744,400974868,2,0,28,1,"Jump Shot","3PT Field Goal",22,"San Antonio Spurs",-226,-2,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-18,2017,6475,1610612744,400974982,1,6,31,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",136,220,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-02,2017,6475,1610612744,400974868,1,6,44,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-113,226,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-02,2017,6475,1610612744,400974868,2,9,14,1,"Jump Shot","2PT Field Goal",13,"San Antonio Spurs",25,135,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-02,2017,6475,1610612744,400974868,2,11,00,1,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",28,188,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-02,2017,6475,1610612744,400974868,1,4,29,0,"Jump Shot","3PT Field Goal",27,"San Antonio Spurs",215,174,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-02,2017,6475,1610612744,400974868,1,6,13,0,"Jump Shot","3PT Field Goal",29,"San Antonio Spurs",188,227,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-02,2017,6475,1610612744,400974868,4,7,10,1,"Jump Shot","3PT Field Goal",27,"San Antonio Spurs",-19,279,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-02,2017,6475,1610612744,400974868,2,5,48,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-13,257,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-02,2017,6475,1610612744,400974868,1,10,28,0,"Jump Shot","2PT Field Goal",7,"San Antonio Spurs",36,68,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-10,2017,6475,1610612744,400975577,2,8,55,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",154,204,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-10,2017,6475,1610612744,400975577,4,6,40,1,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",144,58,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-10,2017,6475,1610612744,400975577,4,7,11,1,"Jump Shot","2PT Field Goal",16,"San Antonio Spurs",-155,69,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-10,2017,6475,1610612744,400975577,1,5,03,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",234,59,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-08,2017,6475,1610612744,400975119,1,5,25,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-37,252,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-25,2017,6475,1610612744,400974446,2,11,13,0,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",111,130,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-25,2017,6475,1610612744,400974446,1,7,44,1,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-164,212,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-25,2017,6475,1610612744,400974446,3,7,47,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",20,258,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-25,2017,6475,1610612744,400974446,4,1,33,1,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",110,239,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-25,2017,6475,1610612744,400974446,1,4,25,0,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",120,143,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-25,2017,6475,1610612744,400974446,4,8,56,0,"Jump Shot","2PT Field Goal",20,"Cleveland Cavaliers",132,158,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-25,2017,6475,1610612744,400974446,2,7,26,0,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",92,252,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-25,2017,6475,1610612744,400974446,2,6,31,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",182,181,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-18,2017,6475,1610612744,400974982,2,11,21,1,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",-17,164,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-18,2017,6475,1610612744,400974982,1,9,50,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-236,90,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-18,2017,6475,1610612744,400974982,1,7,38,0,"Jump Shot","2PT Field Goal",15,"Philadelphia 76ers",2,157,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-18,2017,6475,1610612744,400974982,2,6,36,0,"Jump Shot","2PT Field Goal",21,"Philadelphia 76ers",-117,179,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-18,2017,6475,1610612744,400974982,1,9,41,0,"Jump Shot","2PT Field Goal",15,"Philadelphia 76ers",83,134,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-18,2017,6475,1610612744,400974982,4,3,37,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",228,72,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-18,2017,6475,1610612744,400974982,4,5,04,0,"Jump Shot","2PT Field Goal",21,"Philadelphia 76ers",-4,214,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-19,2017,6475,1610612744,400974987,2,8,12,1,"Jump Shot","2PT Field Goal",21,"Brooklyn Nets",-13,211,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-19,2017,6475,1610612744,400974987,4,2,00,1,"Jump Shot","2PT Field Goal",21,"Brooklyn Nets",-94,197,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-08,2017,6475,1610612744,400975119,1,3,22,1,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",-165,119,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-31,2017,6475,1610612744,400975888,1,11,40,1,"Jump Shot","2PT Field Goal",12,"Sacramento Kings",84,97,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-31,2017,6475,1610612744,400975888,1,7,28,1,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",182,74,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-31,2017,6475,1610612744,400975888,2,7,40,0,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",101,244,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-31,2017,6475,1610612744,400975888,2,9,04,1,"Jump Shot","2PT Field Goal",13,"Sacramento Kings",-16,132,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-31,2017,6475,1610612744,400975888,2,8,33,0,"Jump Shot","3PT Field Goal",22,"Sacramento Kings",223,52,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-31,2017,6475,1610612744,400975888,3,5,09,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",223,110,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-31,2017,6475,1610612744,400975888,2,0,52,0,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",-201,40,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-31,2017,6475,1610612744,400975888,4,7,36,0,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",110,159,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-31,2017,6475,1610612744,400975888,4,5,20,1,"Jump Shot","3PT Field Goal",22,"Sacramento Kings",-225,17,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-31,2017,6475,1610612744,400975888,4,5,54,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",182,167,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-31,2017,6475,1610612744,400975888,4,6,10,1,"Jump Shot","3PT Field Goal",22,"Sacramento Kings",-223,-4,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-31,2017,6475,1610612744,400975888,2,1,16,1,"Jump Shot","2PT Field Goal",14,"Sacramento Kings",-11,147,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-27,2017,6475,1610612744,400974826,2,0,06,1,"Jump Shot","3PT Field Goal",26,"Washington Wizards",-202,172,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-27,2017,6475,1610612744,400974826,3,9,32,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-220,124,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-27,2017,6475,1610612744,400974826,2,10,36,1,"Jump Shot","2PT Field Goal",5,"Washington Wizards",30,47,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-27,2017,6475,1610612744,400974826,2,8,49,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",143,228,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-27,2017,6475,1610612744,400974826,4,7,52,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-16,252,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-27,2017,6475,1610612744,400974826,2,9,40,0,"Jump Shot","2PT Field Goal",22,"Washington Wizards",75,215,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-27,2017,6475,1610612744,400974826,2,8,15,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",140,211,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-27,2017,6475,1610612744,400974826,4,8,47,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",-183,190,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-19,2017,6475,1610612744,400974987,4,8,22,0,"Jump Shot","2PT Field Goal",20,"Brooklyn Nets",30,204,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-11,2017,6475,1610612744,400974935,1,5,35,0,"Jump Shot","2PT Field Goal",22,"Philadelphia 76ers",-49,216,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-19,2017,6475,1610612744,400974987,4,1,29,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-123,217,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-03,2017,6475,1610612744,400975528,1,5,37,1,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",-3,185,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-03,2017,6475,1610612744,400975528,1,11,30,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-128,204,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-03,2017,6475,1610612744,400975528,3,8,38,0,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",223,31,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-03,2017,6475,1610612744,400975528,2,10,09,0,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",-222,-23,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-08,2017,6475,1610612744,400975119,2,3,04,0,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",231,52,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-08,2017,6475,1610612744,400975119,3,4,13,0,"Jump Shot","2PT Field Goal",5,"Detroit Pistons",18,55,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-08,2017,6475,1610612744,400975119,4,1,44,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-131,228,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-08,2017,6475,1610612744,400975119,3,5,42,1,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",-235,11,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-08,2017,6475,1610612744,400975119,3,6,20,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",221,109,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-08,2017,6475,1610612744,400975119,4,2,56,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",206,153,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-08,2017,6475,1610612744,400975119,1,5,34,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",158,205,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-08,2017,6475,1610612744,400975119,1,4,49,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",188,183,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-03,2017,6475,1610612744,400975528,4,6,09,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",43,251,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-03,2017,6475,1610612744,400975528,1,9,41,1,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",174,13,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-19,2017,6475,1610612744,400974987,2,7,00,1,"Jump Shot","2PT Field Goal",23,"Brooklyn Nets",213,93,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-19,2017,6475,1610612744,400974987,4,10,15,1,"Jump Shot","2PT Field Goal",22,"Brooklyn Nets",76,216,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-19,2017,6475,1610612744,400974987,2,1,09,0,"Jump Shot","2PT Field Goal",15,"Brooklyn Nets",-9,159,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-03,2017,6475,1610612744,400975528,2,9,25,0,"Jump Shot","2PT Field Goal",12,"Denver Nuggets",-129,-16,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-03,2017,6475,1610612744,400975528,1,10,08,0,"Jump Shot","2PT Field Goal",21,"Denver Nuggets",149,155,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-03,2017,6475,1610612744,400975528,1,4,02,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-212,122,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-03,2017,6475,1610612744,400975528,2,0,28,0,"Jump Shot","2PT Field Goal",21,"Denver Nuggets",-204,78,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-27,2017,6475,1610612744,400975474,1,5,10,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-136,218,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-27,2017,6475,1610612744,400975474,1,11,23,0,"Jump Shot","2PT Field Goal",18,"Boston Celtics",133,131,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-24,2017,6475,1610612744,400975027,3,2,43,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",-225,56,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-24,2017,6475,1610612744,400975027,1,5,21,0,"Jump Shot","3PT Field Goal",26,"Chicago Bulls",156,209,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-24,2017,6475,1610612744,400975027,3,8,25,1,"Jump Shot","2PT Field Goal",10,"Chicago Bulls",-106,-7,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-24,2017,6475,1610612744,400975027,3,3,43,0,"Jump Shot","3PT Field Goal",27,"Chicago Bulls",-158,225,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-24,2017,6475,1610612744,400975027,1,7,58,1,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",-125,152,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-24,2017,6475,1610612744,400975027,2,3,02,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",210,134,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-24,2017,6475,1610612744,400975027,3,6,41,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-125,225,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-24,2017,6475,1610612744,400975027,1,10,01,1,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",172,113,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-24,2017,6475,1610612744,400975027,3,4,49,1,"Jump Shot","2PT Field Goal",16,"Chicago Bulls",-101,135,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-26,2017,6475,1610612744,400975646,3,3,59,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-190,168,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-11,2017,6475,1610612744,400974935,3,6,21,1,"Jump Shot","3PT Field Goal",28,"Philadelphia 76ers",0,286,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-11,2017,6475,1610612744,400974935,2,10,54,1,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",2,180,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-11,2017,6475,1610612744,400974935,2,1,35,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",96,142,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-11,2017,6475,1610612744,400974935,1,6,40,0,"Jump Shot","3PT Field Goal",29,"Philadelphia 76ers",73,285,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-11,2017,6475,1610612744,400974935,3,5,44,0,"Jump Shot","3PT Field Goal",22,"Philadelphia 76ers",-226,16,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-11,2017,6475,1610612744,400974935,4,9,13,1,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",-231,64,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-11,2017,6475,1610612744,400974935,2,0,25,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-190,172,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-03,2017,6475,1610612744,400975308,4,10,17,1,"Jump Shot","2PT Field Goal",15,"Dallas Mavericks",53,143,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-20,2017,6475,1610612744,400975425,1,11,43,1,"Jump Shot","2PT Field Goal",21,"Houston Rockets",-195,100,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-26,2017,6475,1610612744,400975646,2,0,38,1,"Jump Shot","2PT Field Goal",17,"New York Knicks",0,178,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-12,2017,6475,1610612744,400975592,1,8,34,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",11,256,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-12,2017,6475,1610612744,400975592,1,9,41,1,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",107,162,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-11,2017,6475,1610612744,400975146,2,0,25,1,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",91,240,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-20,2017,6475,1610612744,400975215,1,8,09,1,"Jump Shot","2PT Field Goal",18,"Memphis Grizzlies",91,160,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-20,2017,6475,1610612744,400975215,4,7,08,0,"Jump Shot","2PT Field Goal",18,"Memphis Grizzlies",176,50,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-20,2017,6475,1610612744,400975215,4,10,23,0,"Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",-96,174,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-20,2017,6475,1610612744,400975215,2,6,10,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",18,268,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-20,2017,6475,1610612744,400975215,1,9,11,1,"Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",-101,131,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-12,2017,6475,1610612744,400975368,1,7,44,1,"Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",130,122,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-12,2017,6475,1610612744,400975368,1,8,02,0,"Jump Shot","3PT Field Goal",22,"Milwaukee Bucks",-228,15,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-11,2017,6475,1610612744,400975146,4,3,26,0,"Jump Shot","2PT Field Goal",14,"Portland Trail Blazers",-92,113,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-11,2017,6475,1610612744,400975146,4,3,08,1,"Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",-226,34,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-11,2017,6475,1610612744,400975146,4,4,14,1,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",184,175,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-12,2017,6475,1610612744,400975592,2,8,43,0,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",100,172,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-20,2017,6475,1610612744,400975425,1,9,09,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",143,198,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-20,2017,6475,1610612744,400975425,4,2,04,0,"Jump Shot","2PT Field Goal",22,"Houston Rockets",168,148,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-20,2017,6475,1610612744,400975425,4,8,23,0,"Jump Shot","2PT Field Goal",16,"Houston Rockets",95,134,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-20,2017,6475,1610612744,400975425,2,0,26,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",197,150,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-20,2017,6475,1610612744,400975425,4,7,25,1,"Jump Shot","3PT Field Goal",22,"Houston Rockets",221,49,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-20,2017,6475,1610612744,400975425,3,9,57,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-214,144,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-20,2017,6475,1610612744,400975425,3,5,23,0,"Jump Shot","2PT Field Goal",18,"Houston Rockets",173,54,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-20,2017,6475,1610612744,400975425,1,8,26,0,"Jump Shot","2PT Field Goal",18,"Houston Rockets",65,168,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-20,2017,6475,1610612744,400975425,4,2,25,0,"Jump Shot","2PT Field Goal",13,"Houston Rockets",116,69,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-20,2017,6475,1610612744,400975425,4,1,37,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",226,104,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,2,0,40,0,"Jump Shot","3PT Field Goal",29,"Phoenix Suns",176,236,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,1,7,29,1,"Jump Shot","2PT Field Goal",16,"Phoenix Suns",121,109,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,4,7,11,1,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",232,-32,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,1,6,28,1,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",193,-20,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,3,10,20,0,"Jump Shot","2PT Field Goal",21,"Phoenix Suns",-202,59,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,1,10,37,1,"Jump Shot","3PT Field Goal",27,"Phoenix Suns",223,159,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,1,4,10,1,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",171,190,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,1,6,55,1,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",177,179,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,1,9,01,1,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",186,73,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,2,2,00,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",-234,41,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,1,11,36,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-14,257,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,4,10,27,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",177,184,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,4,5,05,0,"Jump Shot","3PT Field Goal",27,"Phoenix Suns",92,260,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,4,7,46,1,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",177,-10,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-12,2017,6475,1610612744,400975592,2,6,43,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-149,199,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-12,2017,6475,1610612744,400975592,3,8,19,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-185,177,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-12,2017,6475,1610612744,400975592,3,4,42,1,"Jump Shot","3PT Field Goal",27,"Phoenix Suns",-168,217,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-12,2017,6475,1610612744,400975592,3,5,06,0,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",149,106,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-12,2017,6475,1610612744,400975592,2,7,21,1,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",-54,189,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-26,2017,6475,1610612744,400975646,1,8,48,1,"Jump Shot","3PT Field Goal",22,"New York Knicks",-227,-26,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-26,2017,6475,1610612744,400975646,3,7,44,1,"Jump Shot","3PT Field Goal",22,"New York Knicks",-228,-5,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-26,2017,6475,1610612744,400975646,2,3,15,1,"Jump Shot","3PT Field Goal",23,"New York Knicks",-230,-4,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-26,2017,6475,1610612744,400975646,3,9,58,1,"Jump Shot","3PT Field Goal",22,"New York Knicks",227,7,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-26,2017,6475,1610612744,400975646,1,11,01,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",157,199,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-26,2017,6475,1610612744,400975646,3,5,09,1,"Jump Shot","2PT Field Goal",21,"New York Knicks",-163,146,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-03,2017,6475,1610612744,400975308,3,8,30,0,"Jump Shot","3PT Field Goal",27,"Dallas Mavericks",-159,226,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-03,2017,6475,1610612744,400975308,4,5,04,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",103,226,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-03,2017,6475,1610612744,400975308,2,8,30,0,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",-220,-2,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-03,2017,6475,1610612744,400975308,4,7,32,0,"Jump Shot","2PT Field Goal",21,"Dallas Mavericks",139,165,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-03,2017,6475,1610612744,400975308,1,7,29,0,"Jump Shot","2PT Field Goal",22,"Dallas Mavericks",90,210,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-03,2017,6475,1610612744,400975308,4,11,04,1,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",-223,-20,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-03,2017,6475,1610612744,400975308,3,11,23,0,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",225,-4,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-03,2017,6475,1610612744,400975308,2,10,29,0,"Jump Shot","2PT Field Goal",13,"Dallas Mavericks",23,129,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-03,2017,6475,1610612744,400975308,2,1,59,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",147,211,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-12,2017,6475,1610612744,400975368,2,1,29,1,"Jump Shot","2PT Field Goal",19,"Milwaukee Bucks",-44,187,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-12,2017,6475,1610612744,400975368,3,7,54,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",107,241,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-12,2017,6475,1610612744,400975368,4,10,22,1,"Jump Shot","2PT Field Goal",15,"Milwaukee Bucks",70,133,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-12,2017,6475,1610612744,400975368,2,3,06,0,"Jump Shot","2PT Field Goal",11,"Milwaukee Bucks",-62,99,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-01,2017,6475,1610612744,400975899,3,8,44,0,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",-224,138,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-27,2017,6475,1610612744,400975260,2,8,54,1,"Jump Shot","2PT Field Goal",16,"Utah Jazz",-92,134,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-27,2017,6475,1610612744,400975260,2,9,46,0,"Jump Shot","2PT Field Goal",17,"Utah Jazz",36,172,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-27,2017,6475,1610612744,400975260,3,10,14,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",223,100,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-27,2017,6475,1610612744,400975260,3,11,18,1,"Jump Shot","2PT Field Goal",21,"Utah Jazz",-190,105,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-27,2017,6475,1610612744,400975260,1,11,48,0,"Jump Shot","2PT Field Goal",20,"Utah Jazz",-2,204,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-27,2017,6475,1610612744,400975260,4,6,28,0,"Jump Shot","3PT Field Goal",23,"Utah Jazz",227,75,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-27,2017,6475,1610612744,400975260,1,5,13,0,"Jump Shot","3PT Field Goal",29,"Utah Jazz",-11,299,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-11,2017,6475,1610612744,400975146,1,6,48,1,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",112,143,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-11,2017,6475,1610612744,400975146,1,6,02,0,"Jump Shot","3PT Field Goal",27,"Portland Trail Blazers",3,278,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-11,2017,6475,1610612744,400975146,2,6,36,0,"Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",-149,219,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-11,2017,6475,1610612744,400975146,4,9,04,0,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",78,169,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-11,2017,6475,1610612744,400975146,1,10,07,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",112,222,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-11,2017,6475,1610612744,400975146,3,5,44,0,"Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",-142,225,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-11,2017,6475,1610612744,400975146,4,4,24,0,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",-110,160,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-11,2017,6475,1610612744,400975146,3,7,12,1,"Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",117,241,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-11,2017,6475,1610612744,400975146,2,9,54,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-188,162,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-01,2017,6475,1610612744,400975899,4,9,28,0,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",163,50,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-06,2017,6475,1610612744,400975549,1,9,16,0,"Jump Shot","3PT Field Goal",28,"Oklahoma City Thunder",-161,233,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-30,2017,6475,1610612744,400975497,4,11,09,1,"Jump Shot","2PT Field Goal",17,"Utah Jazz",59,167,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-01,2017,6475,1610612744,400975899,3,7,22,1,"Jump Shot","3PT Field Goal",27,"Phoenix Suns",167,218,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-06,2017,6475,1610612744,400975549,2,0,00,0,"Jump Shot","3PT Field Goal",76,"Oklahoma City Thunder",4,769,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-01,2017,6475,1610612744,400975899,1,6,12,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",179,180,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-06,2017,6475,1610612744,400975549,1,11,21,1,"Jump Shot","2PT Field Goal",20,"Oklahoma City Thunder",205,13,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-06,2017,6475,1610612744,400975549,2,0,40,1,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",179,189,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-06,2017,6475,1610612744,400975549,3,7,01,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",128,220,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-06,2017,6475,1610612744,400975549,1,10,34,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",169,197,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-30,2017,6475,1610612744,400975497,4,7,22,0,"Jump Shot","2PT Field Goal",14,"Utah Jazz",118,91,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-30,2017,6475,1610612744,400975497,2,7,19,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",180,164,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-30,2017,6475,1610612744,400975497,4,9,15,1,"Jump Shot","2PT Field Goal",20,"Utah Jazz",74,193,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-30,2017,6475,1610612744,400975497,2,9,05,1,"Jump Shot","2PT Field Goal",22,"Utah Jazz",-194,116,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-30,2017,6475,1610612744,400975497,3,5,21,1,"Jump Shot","3PT Field Goal",23,"Utah Jazz",-225,59,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-30,2017,6475,1610612744,400975497,1,7,14,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-116,227,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-30,2017,6475,1610612744,400975497,2,11,28,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",40,242,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-30,2017,6475,1610612744,400975497,2,0,07,1,"Jump Shot","3PT Field Goal",23,"Utah Jazz",229,36,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-01,2017,6475,1610612744,400975899,4,10,30,1,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",-106,169,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-01,2017,6475,1610612744,400975899,1,10,31,0,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",155,111,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-01,2017,6475,1610612744,400975899,2,1,59,1,"Jump Shot","3PT Field Goal",27,"Phoenix Suns",195,194,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-01,2017,6475,1610612744,400975899,2,9,25,0,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",121,143,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-01,2017,6475,1610612744,400975899,2,11,30,1,"Jump Shot","2PT Field Goal",21,"Phoenix Suns",202,70,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-01,2017,6475,1610612744,400975899,4,7,41,0,"Jump Shot","3PT Field Goal",27,"Phoenix Suns",-141,231,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-28,2017,6475,1610612744,400975663,4,9,39,1,"Jump Shot","2PT Field Goal",15,"Washington Wizards",8,153,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,4,9,22,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",59,241,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,1,9,28,0,"Jump Shot","2PT Field Goal",22,"Utah Jazz",-195,117,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,3,9,17,0,"Jump Shot","2PT Field Goal",15,"Utah Jazz",155,-8,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,3,0,26,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",119,214,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-28,2017,6475,1610612744,400975663,3,9,56,1,"Jump Shot","3PT Field Goal",27,"Washington Wizards",217,162,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-28,2017,6475,1610612744,400975663,1,9,27,1,"Jump Shot","3PT Field Goal",26,"Washington Wizards",112,240,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-28,2017,6475,1610612744,400975663,1,10,32,0,"Jump Shot","2PT Field Goal",19,"Washington Wizards",155,117,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-28,2017,6475,1610612744,400975663,1,4,23,0,"Jump Shot","3PT Field Goal",23,"Washington Wizards",235,29,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-28,2017,6475,1610612744,400975663,4,8,20,1,"Jump Shot","3PT Field Goal",25,"Washington Wizards",78,239,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,4,11,13,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",122,221,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,1,3,36,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-151,188,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,2,4,33,1,"Jump Shot","3PT Field Goal",25,"Utah Jazz",228,114,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,3,2,15,1,"Jump Shot","2PT Field Goal",10,"Utah Jazz",32,95,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,1,4,44,0,"Jump Shot","2PT Field Goal",20,"Utah Jazz",181,89,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,1,0,13,0,"Jump Shot","2PT Field Goal",14,"Utah Jazz",8,143,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,1,2,07,0,"Jump Shot","3PT Field Goal",22,"Utah Jazz",-228,-20,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-03,2017,6475,1610612744,400975909,4,11,26,0,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",210,155,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-03,2017,6475,1610612744,400975909,1,7,58,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",152,199,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-03,2017,6475,1610612744,400975909,3,3,55,1,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",-199,-2,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-03,2017,6475,1610612744,400975909,2,6,42,1,"Jump Shot","2PT Field Goal",23,"Oklahoma City Thunder",-8,238,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-14,2017,6475,1610612744,400975610,1,11,21,1,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",35,197,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-14,2017,6475,1610612744,400975610,4,0,22,0,"Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",226,13,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-03,2017,6475,1610612744,400975909,3,11,10,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-189,152,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-03,2017,6475,1610612744,400975909,3,8,32,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",231,98,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-03,2017,6475,1610612744,400975909,3,6,32,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-230,-1,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-14,2017,6475,1610612744,400975610,4,9,30,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-106,228,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-14,2017,6475,1610612744,400975610,4,11,25,0,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",0,163,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-14,2017,6475,1610612744,400975610,1,7,19,0,"Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",229,21,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-14,2017,6475,1610612744,400975610,4,7,37,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-159,191,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-14,2017,6475,1610612744,400975610,3,5,31,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",168,179,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-03,2017,6475,1610612744,400975909,3,6,06,1,"Jump Shot","2PT Field Goal",22,"Oklahoma City Thunder",-207,87,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-03,2017,6475,1610612744,400975909,2,9,08,1,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",107,158,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-03,2017,6475,1610612744,400975909,3,8,52,1,"Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",100,137,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-03,2017,6475,1610612744,400975909,1,9,42,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",228,12,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-16,2017,6475,1610612744,400974966,4,8,55,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-144,216,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-16,2017,6475,1610612744,400974966,3,7,59,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",206,134,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-16,2017,6475,1610612744,400974966,4,1,59,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-217,139,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-16,2017,6475,1610612744,400974966,1,8,42,1,"Jump Shot","3PT Field Goal",26,"Boston Celtics",-67,261,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-16,2017,6475,1610612744,400974966,1,6,31,0,"Jump Shot","3PT Field Goal",26,"Boston Celtics",183,197,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-16,2017,6475,1610612744,400974966,4,1,04,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",166,184,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-16,2017,6475,1610612744,400974966,3,7,16,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-150,206,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-16,2017,6475,1610612744,400974966,4,0,00,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-220,125,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-16,2017,6475,1610612744,400974966,4,1,22,1,"Jump Shot","3PT Field Goal",26,"Boston Celtics",-212,163,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-23,2017,6475,1610612744,400974796,2,10,56,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",142,199,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-23,2017,6475,1610612744,400974796,4,11,46,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-25,258,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-23,2017,6475,1610612744,400974796,1,11,39,1,"Jump Shot","2PT Field Goal",16,"Dallas Mavericks",57,150,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-23,2017,6475,1610612744,400974796,3,10,05,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",-228,71,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-23,2017,6475,1610612744,400974796,3,11,15,1,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",-54,200,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-23,2017,6475,1610612744,400974796,3,7,26,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-142,207,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-23,2017,6475,1610612744,400974796,3,8,26,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",85,239,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-23,2017,6475,1610612744,400974796,4,9,17,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",211,132,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-23,2017,6475,1610612744,400974796,4,10,04,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",192,173,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-14,2017,6475,1610612744,400975168,4,9,16,0,"Jump Shot","2PT Field Goal",22,"Dallas Mavericks",-48,224,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-25,2017,6475,1610612744,400975459,3,7,29,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",220,127,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-25,2017,6475,1610612744,400975459,3,6,51,1,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",-228,50,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-25,2017,6475,1610612744,400975459,3,11,01,0,"Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",123,130,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-25,2017,6475,1610612744,400975459,1,8,53,1,"Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",-172,195,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-25,2017,6475,1610612744,400975459,2,9,37,0,"Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",-96,168,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-25,2017,6475,1610612744,400975459,2,1,50,1,"Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",-181,197,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-25,2017,6475,1610612744,400975459,3,6,21,1,"Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",107,241,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-25,2017,6475,1610612744,400975459,3,8,51,1,"Jump Shot","3PT Field Goal",21,"Minnesota Timberwolves",-218,-4,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-25,2017,6475,1610612744,400975459,4,9,10,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-141,211,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-25,2017,6475,1610612744,400975459,4,10,42,0,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",-228,-15,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-14,2017,6475,1610612744,400975168,3,11,01,0,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",123,148,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-14,2017,6475,1610612744,400975168,2,8,05,1,"Jump Shot","2PT Field Goal",15,"Dallas Mavericks",106,112,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-14,2017,6475,1610612744,400975168,4,6,28,0,"Jump Shot","2PT Field Goal",17,"Dallas Mavericks",-92,150,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-14,2017,6475,1610612744,400975168,2,3,42,1,"Jump Shot","2PT Field Goal",16,"Dallas Mavericks",100,125,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-14,2017,6475,1610612744,400975168,2,11,05,1,"Jump Shot","3PT Field Goal",26,"Dallas Mavericks",-40,259,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-14,2017,6475,1610612744,400975168,4,8,22,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-167,190,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-14,2017,6475,1610612744,400975168,4,8,46,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",88,231,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-14,2017,6475,1610612744,400975168,1,10,09,1,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",-157,90,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-14,2017,6475,1610612744,400975168,1,6,10,0,"Jump Shot","2PT Field Goal",7,"Dallas Mavericks",-74,25,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-14,2017,6475,1610612744,400975168,4,6,50,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",1,252,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-30,2017,6475,1610612744,400975281,4,11,42,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-100,239,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-30,2017,6475,1610612744,400975281,3,4,36,1,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",157,216,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-30,2017,6475,1610612744,400975281,3,4,51,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",228,99,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-30,2017,6475,1610612744,400975281,2,5,36,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",118,238,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-30,2017,6475,1610612744,400975281,1,3,03,0,"Jump Shot","2PT Field Goal",15,"Memphis Grizzlies",130,92,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-30,2017,6475,1610612744,400975281,1,9,01,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",140,211,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-30,2017,6475,1610612744,400975281,2,0,35,0,"Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",-125,148,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-30,2017,6475,1610612744,400975281,1,7,31,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",226,90,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-30,2017,6475,1610612744,400975281,1,1,38,1,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-14,265,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-06,2017,6475,1610612744,400975109,2,1,33,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",208,132,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-02,2017,6475,1610612744,400975520,4,1,26,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-176,173,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-29,2017,6475,1610612744,400975063,2,5,59,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",145,223,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-29,2017,6475,1610612744,400975063,3,6,37,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",54,257,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-29,2017,6475,1610612744,400975063,4,5,21,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-128,215,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-29,2017,6475,1610612744,400975063,3,10,54,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-234,109,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-29,2017,6475,1610612744,400975063,3,7,13,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",172,204,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-29,2017,6475,1610612744,400975063,2,1,00,0,"Jump Shot","3PT Field Goal",28,"Los Angeles Lakers",-104,264,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-29,2017,6475,1610612744,400975063,3,5,44,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",116,236,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-24,2017,6475,1610612744,400975633,1,9,10,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",228,43,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-06,2017,6475,1610612744,400975109,1,9,26,0,"Jump Shot","3PT Field Goal",22,"Charlotte Hornets",-223,22,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-17,2017,6475,1610612744,400975403,4,6,45,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",20,240,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-02,2017,6475,1610612744,400975520,1,4,55,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",199,148,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-02,2017,6475,1610612744,400975520,3,10,47,0,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-171,201,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-02,2017,6475,1610612744,400975520,3,10,17,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",231,-2,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-02,2017,6475,1610612744,400975520,1,11,28,1,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-234,29,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-02,2017,6475,1610612744,400975520,1,8,07,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",140,212,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-02,2017,6475,1610612744,400975520,3,8,12,1,"Jump Shot","3PT Field Goal",22,"Sacramento Kings",-227,-8,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-02,2017,6475,1610612744,400975520,2,11,09,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",210,146,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-08,2017,6475,1610612744,400974914,4,9,24,0,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",224,14,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-08,2017,6475,1610612744,400974914,2,6,31,0,"Jump Shot","3PT Field Goal",27,"Minnesota Timberwolves",-139,238,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-08,2017,6475,1610612744,400974914,1,6,51,0,"Jump Shot","2PT Field Goal",13,"Minnesota Timberwolves",129,50,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-08,2017,6475,1610612744,400974914,1,10,18,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",150,211,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-08,2017,6475,1610612744,400974914,1,11,22,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-99,230,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-08,2017,6475,1610612744,400974914,3,3,52,1,"Jump Shot","3PT Field Goal",27,"Minnesota Timberwolves",165,214,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-08,2017,6475,1610612744,400974914,3,6,55,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-185,163,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-08,2017,6475,1610612744,400974914,1,10,56,0,"Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",129,102,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-08,2017,6475,1610612744,400974914,3,11,50,0,"Jump Shot","2PT Field Goal",18,"Minnesota Timberwolves",141,116,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-08,2017,6475,1610612744,400974914,2,2,09,1,"Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",203,36,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-08,2017,6475,1610612744,400974914,2,0,50,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-225,85,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-08,2017,6475,1610612744,400974914,4,5,08,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-193,169,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-08,2017,6475,1610612744,400974914,3,6,39,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-203,161,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-24,2017,6475,1610612744,400975633,1,6,25,1,"Jump Shot","2PT Field Goal",15,"Oklahoma City Thunder",152,16,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-08,2017,6475,1610612744,400975343,1,11,46,1,"Jump Shot","2PT Field Goal",20,"Denver Nuggets",160,133,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-08,2017,6475,1610612744,400975343,2,5,15,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",171,179,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-08,2017,6475,1610612744,400975343,1,10,24,1,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",-117,153,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-08,2017,6475,1610612744,400975343,4,1,35,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",185,189,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-01,2017,6475,1610612744,400975069,3,4,29,1,"Jump Shot","2PT Field Goal",16,"Orlando Magic",35,162,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-08,2017,6475,1610612744,400975343,2,11,20,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",-171,200,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-08,2017,6475,1610612744,400975343,4,2,22,0,"Jump Shot","3PT Field Goal",27,"Denver Nuggets",14,273,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-08,2017,6475,1610612744,400975343,3,8,57,0,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",141,122,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-08,2017,6475,1610612744,400975343,2,7,26,0,"Jump Shot","2PT Field Goal",20,"Denver Nuggets",127,158,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-08,2017,6475,1610612744,400975343,1,8,10,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",169,194,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-10,2017,6475,1610612744,400975577,3,7,51,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-128,218,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-17,2017,6475,1610612744,400975403,3,5,47,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",154,199,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-17,2017,6475,1610612744,400975403,2,2,11,0,"Jump Shot","3PT Field Goal",26,"Chicago Bulls",-150,220,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-17,2017,6475,1610612744,400975403,1,11,21,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-130,223,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-17,2017,6475,1610612744,400975403,3,10,22,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",144,198,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-17,2017,6475,1610612744,400975403,3,9,59,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-150,198,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-17,2017,6475,1610612744,400975403,2,8,22,0,"Jump Shot","2PT Field Goal",15,"Chicago Bulls",-154,6,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-17,2017,6475,1610612744,400975403,3,8,26,0,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",136,151,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-08,2017,6475,1610612744,400975561,1,7,32,0,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",8,10,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-01,2017,6475,1610612744,400975069,3,9,07,1,"Layup Shot","2PT Field Goal",2,"Orlando Magic",-11,20,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-07,2017,6475,1610612744,400975941,4,7,33,0,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",2,17,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-23,2017,6475,1610612744,400975240,2,7,46,0,"Layup Shot","2PT Field Goal",3,"Denver Nuggets",-8,33,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-18,2017,6475,1610612744,400974982,1,8,30,1,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",3,21,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-17,2017,6475,1610612744,400975403,2,9,55,1,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",-9,23,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-27,2017,6475,1610612744,400975047,2,3,47,0,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",2,20,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-03,2017,6475,1610612744,400975086,2,8,12,1,"Layup Shot","2PT Field Goal",1,"Miami Heat",-8,11,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-08,2017,6475,1610612744,400975343,1,6,57,1,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",-8,22,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-25,2017,6475,1610612744,400975459,2,10,41,1,"Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",10,23,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-04,2017,6475,1610612744,400975097,4,10,04,1,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-17,20,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-30,2017,6475,1610612744,400975497,2,5,52,1,"Layup Shot","2PT Field Goal",2,"Utah Jazz",23,4,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-16,2017,6475,1610612744,400974966,2,1,07,0,"Layup Shot","2PT Field Goal",2,"Boston Celtics",7,24,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-04,2017,6475,1610612744,400975312,1,9,17,0,"Layup Shot","2PT Field Goal",2,"Houston Rockets",-14,21,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-08,2017,6475,1610612744,400975119,1,7,53,1,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",11,16,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-06,2017,6475,1610612744,400974899,3,8,35,0,"Layup Shot","2PT Field Goal",2,"Miami Heat",3,22,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-11,2017,6475,1610612744,400974935,1,4,22,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-2,20,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-18,2017,6475,1610612744,400974982,4,4,12,1,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",28,5,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-11,2017,6475,1610612744,400974935,4,8,58,1,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-8,16,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-13,2017,6475,1610612744,400975377,2,0,57,1,"Layup Shot","2PT Field Goal",2,"Toronto Raptors",19,20,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-08,2017,6475,1610612744,400974914,3,5,50,1,"Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",-16,15,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-17,2017,6475,1610612744,400974438,3,8,45,0,"Layup Shot","2PT Field Goal",1,"Houston Rockets",-11,10,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-23,2017,6475,1610612744,400975445,2,8,09,0,"Layup Shot","2PT Field Goal",1,"New York Knicks",8,12,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-24,2017,6475,1610612744,400975633,2,9,59,0,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",11,11,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-29,2017,6475,1610612744,400974842,4,0,05,1,"Layup Shot","2PT Field Goal",2,"Detroit Pistons",3,20,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-27,2017,6475,1610612744,400974826,2,1,17,0,"Layup Shot","2PT Field Goal",0,"Washington Wizards",6,6,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-30,2017,6475,1610612744,400975281,4,9,25,0,"Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",7,29,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-12,2017,6475,1610612744,400975368,3,6,37,0,"Layup Shot","2PT Field Goal",6,"Milwaukee Bucks",18,65,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-27,2017,6475,1610612744,400974826,4,10,06,0,"Layup Shot","2PT Field Goal",2,"Washington Wizards",0,26,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-11,2017,6475,1610612744,400974935,2,7,54,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-5,20,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-18,2017,6475,1610612744,400974982,2,11,47,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",19,15,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-27,2017,6475,1610612744,400975047,1,9,03,0,"Layup Shot","2PT Field Goal",3,"Sacramento Kings",18,28,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-03,2017,6475,1610612744,400975086,2,8,16,0,"Layup Shot","2PT Field Goal",0,"Miami Heat",3,4,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-18,2017,6475,1610612744,400974982,4,6,33,1,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",29,5,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-30,2017,6475,1610612744,400974851,1,11,31,0,"Pullup Jump shot","3PT Field Goal",25,"Los Angeles Clippers",143,214,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-30,2017,6475,1610612744,400975281,3,6,58,0,"Pullup Jump shot","3PT Field Goal",23,"Memphis Grizzlies",-227,55,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-16,2017,6475,1610612744,400974966,2,11,42,0,"Pullup Jump shot","2PT Field Goal",17,"Boston Celtics",33,168,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-16,2017,6475,1610612744,400974966,2,0,25,0,"Pullup Jump shot","3PT Field Goal",25,"Boston Celtics",-144,213,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-30,2017,6475,1610612744,400974851,2,10,43,1,"Pullup Jump shot","2PT Field Goal",14,"Los Angeles Clippers",113,89,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-25,2017,6475,1610612744,400974446,2,9,36,1,"Pullup Jump shot","2PT Field Goal",19,"Cleveland Cavaliers",-39,196,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-04,2017,6475,1610612744,400975312,2,8,28,0,"Pullup Jump shot","2PT Field Goal",17,"Houston Rockets",77,159,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-25,2017,6475,1610612744,400974446,4,11,41,1,"Pullup Jump shot","2PT Field Goal",17,"Cleveland Cavaliers",-114,137,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-16,2017,6475,1610612744,400974966,2,2,30,0,"Pullup Jump shot","2PT Field Goal",19,"Boston Celtics",117,159,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-16,2017,6475,1610612744,400974966,3,0,05,0,"Pullup Jump shot","3PT Field Goal",25,"Boston Celtics",205,148,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-25,2017,6475,1610612744,400974446,1,8,48,1,"Pullup Jump shot","3PT Field Goal",25,"Cleveland Cavaliers",130,223,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,4,6,04,1,"Pullup Jump shot","3PT Field Goal",29,"Phoenix Suns",112,277,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-30,2017,6475,1610612744,400975281,1,5,05,1,"Pullup Jump shot","3PT Field Goal",24,"Memphis Grizzlies",180,172,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-22,2017,6475,1610612744,400975618,1,10,45,1,"Pullup Jump shot","3PT Field Goal",23,"Los Angeles Clippers",-223,80,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-23,2017,6475,1610612744,400974796,1,11,12,0,"Pullup Jump shot","3PT Field Goal",24,"Dallas Mavericks",-168,176,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-23,2017,6475,1610612744,400974796,2,1,55,0,"Pullup Jump shot","2PT Field Goal",17,"Dallas Mavericks",-97,148,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-30,2017,6475,1610612744,400974851,4,6,45,0,"Pullup Jump shot","2PT Field Goal",19,"Los Angeles Clippers",-102,168,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,2,2,32,1,"Pullup Jump shot","2PT Field Goal",10,"Phoenix Suns",99,45,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-28,2017,6475,1610612744,400975663,2,5,56,0,"Pullup Jump shot","2PT Field Goal",20,"Washington Wizards",77,189,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-06,2017,6475,1610612744,400975549,2,1,27,1,"Pullup Jump shot","3PT Field Goal",25,"Oklahoma City Thunder",-219,138,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-06,2017,6475,1610612744,400975549,2,9,53,0,"Pullup Jump shot","2PT Field Goal",17,"Oklahoma City Thunder",-155,79,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,3,7,25,0,"Pullup Jump shot","3PT Field Goal",25,"Phoenix Suns",-101,236,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-06,2017,6475,1610612744,400975549,2,11,26,0,"Pullup Jump shot","2PT Field Goal",22,"Oklahoma City Thunder",123,186,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-30,2017,6475,1610612744,400974851,2,9,39,0,"Pullup Jump shot","2PT Field Goal",16,"Los Angeles Clippers",-166,26,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-14,2017,6475,1610612744,400975168,4,7,52,1,"Pullup Jump shot","3PT Field Goal",25,"Dallas Mavericks",-78,239,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-31,2017,6475,1610612744,400975888,1,7,06,0,"Pullup Jump shot","3PT Field Goal",24,"Sacramento Kings",-157,194,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-14,2017,6475,1610612744,400975168,2,7,22,0,"Pullup Jump shot","2PT Field Goal",17,"Dallas Mavericks",134,115,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-14,2017,6475,1610612744,400975168,1,11,41,1,"Pullup Jump shot","2PT Field Goal",12,"Dallas Mavericks",117,52,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-03,2017,6475,1610612744,400975909,2,3,17,1,"Pullup Jump shot","2PT Field Goal",11,"Oklahoma City Thunder",112,20,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-05,2017,6475,1610612744,400975921,2,9,29,0,"Pullup Jump shot","2PT Field Goal",17,"Indiana Pacers",90,153,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-30,2017,6475,1610612744,400975497,2,1,21,1,"Pullup Jump shot","2PT Field Goal",13,"Utah Jazz",56,122,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-30,2017,6475,1610612744,400975281,1,8,38,1,"Pullup Jump shot","3PT Field Goal",27,"Memphis Grizzlies",-28,269,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-02,2017,6475,1610612744,400975674,2,7,01,0,"Pullup Jump shot","3PT Field Goal",25,"Atlanta Hawks",140,209,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-30,2017,6475,1610612744,400975281,3,10,55,1,"Pullup Jump shot","2PT Field Goal",17,"Memphis Grizzlies",-92,147,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-27,2017,6475,1610612744,400974826,4,6,22,0,"Pullup Jump shot","2PT Field Goal",20,"Washington Wizards",128,159,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-29,2017,6475,1610612744,400975063,4,7,38,1,"Pullup Jump shot","2PT Field Goal",16,"Los Angeles Lakers",-87,136,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-27,2017,6475,1610612744,400975047,2,0,40,0,"Pullup Jump shot","3PT Field Goal",24,"Sacramento Kings",184,168,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-27,2017,6475,1610612744,400974826,4,11,48,1,"Pullup Jump shot","3PT Field Goal",25,"Washington Wizards",-16,255,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-29,2017,6475,1610612744,400975063,1,9,58,1,"Pullup Jump shot","3PT Field Goal",26,"Los Angeles Lakers",234,123,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-27,2017,6475,1610612744,400975047,2,2,13,0,"Pullup Jump shot","3PT Field Goal",24,"Sacramento Kings",212,132,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-29,2017,6475,1610612744,400974842,3,9,08,1,"Pullup Jump shot","3PT Field Goal",24,"Detroit Pistons",180,173,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-29,2017,6475,1610612744,400974842,2,6,27,0,"Pullup Jump shot","2PT Field Goal",17,"Detroit Pistons",-143,96,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-17,2017,6475,1610612744,400974438,1,0,57,0,"Pullup Jump shot","3PT Field Goal",25,"Houston Rockets",169,194,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-19,2017,6475,1610612744,400974987,1,10,25,0,"Pullup Jump shot","2PT Field Goal",19,"Brooklyn Nets",-16,199,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-02,2017,6475,1610612744,400975674,2,6,01,1,"Pullup Jump shot","2PT Field Goal",14,"Atlanta Hawks",-5,148,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-26,2017,6475,1610612744,400975646,1,10,42,1,"Pullup Jump shot","2PT Field Goal",16,"New York Knicks",122,114,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,1,9,02,0,"Pullup Jump shot","2PT Field Goal",19,"Utah Jazz",-80,176,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-29,2017,6475,1610612744,400974842,3,7,07,1,"Pullup Jump shot","2PT Field Goal",20,"Detroit Pistons",-105,173,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-08,2017,6475,1610612744,400974914,3,7,16,1,"Pullup Jump shot","2PT Field Goal",18,"Minnesota Timberwolves",62,174,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-29,2017,6475,1610612744,400974842,4,4,09,1,"Pullup Jump shot","3PT Field Goal",24,"Detroit Pistons",-226,92,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-08,2017,6475,1610612744,400975119,3,10,54,1,"Pullup Jump shot","2PT Field Goal",18,"Detroit Pistons",42,179,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-08,2017,6475,1610612744,400974914,3,7,50,1,"Pullup Jump shot","3PT Field Goal",25,"Minnesota Timberwolves",169,193,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-08,2017,6475,1610612744,400974914,2,10,34,1,"Pullup Jump shot","3PT Field Goal",24,"Minnesota Timberwolves",225,84,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-27,2017,6475,1610612744,400975047,4,0,48,0,"Pullup Jump shot","3PT Field Goal",26,"Sacramento Kings",-199,171,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-27,2017,6475,1610612744,400975047,4,3,11,1,"Pullup Jump shot","3PT Field Goal",22,"Sacramento Kings",225,-12,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-08,2017,6475,1610612744,400974914,4,5,52,1,"Pullup Jump shot","3PT Field Goal",26,"Minnesota Timberwolves",163,209,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-27,2017,6475,1610612744,400975047,3,4,54,1,"Pullup Jump shot","3PT Field Goal",25,"Sacramento Kings",137,216,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-02,2017,6475,1610612744,400975674,3,6,13,1,"Pullup Jump shot","2PT Field Goal",15,"Atlanta Hawks",-141,55,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-08,2017,6475,1610612744,400974914,4,6,34,1,"Pullup Jump shot","2PT Field Goal",12,"Minnesota Timberwolves",122,26,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-01,2017,6475,1610612744,400975069,2,11,18,0,"Pullup Jump shot","2PT Field Goal",15,"Orlando Magic",-5,155,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,3,8,11,0,"Pullup Jump shot","2PT Field Goal",22,"Utah Jazz",-112,193,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-27,2017,6475,1610612744,400975047,3,8,41,1,"Pullup Jump shot","3PT Field Goal",25,"Sacramento Kings",76,245,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-08,2017,6475,1610612744,400975343,3,4,10,1,"Pullup Jump shot","3PT Field Goal",26,"Denver Nuggets",110,241,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-08,2017,6475,1610612744,400975343,4,9,18,1,"Pullup Jump shot","2PT Field Goal",20,"Denver Nuggets",-2,209,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-03,2017,6475,1610612744,400975308,2,11,05,1,"Pullup Jump shot","2PT Field Goal",18,"Dallas Mavericks",17,188,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-29,2017,6475,1610612744,400974842,4,8,47,1,"Pullup Jump shot","2PT Field Goal",16,"Detroit Pistons",119,121,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-29,2017,6475,1610612744,400975274,1,6,29,1,"Pullup Jump shot","3PT Field Goal",26,"Charlotte Hornets",-152,216,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-03,2017,6475,1610612744,400975308,4,4,32,1,"Pullup Jump shot","2PT Field Goal",10,"Dallas Mavericks",86,67,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-19,2017,6475,1610612744,400974987,1,10,05,0,"Pullup Jump shot","2PT Field Goal",15,"Brooklyn Nets",152,6,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-29,2017,6475,1610612744,400974842,1,5,01,0,"Pullup Jump shot","2PT Field Goal",17,"Detroit Pistons",82,160,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-29,2017,6475,1610612744,400974842,4,11,27,1,"Pullup Jump shot","2PT Field Goal",17,"Detroit Pistons",115,132,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-04,2017,6475,1610612744,400975312,2,0,05,1,"Pullup Jump shot","3PT Field Goal",25,"Houston Rockets",147,210,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-03,2017,6475,1610612744,400975528,1,6,09,1,"Pullup Jump shot","3PT Field Goal",24,"Denver Nuggets",212,127,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-14,2017,6475,1610612744,400975610,2,11,46,0,"Pullup Jump shot","2PT Field Goal",17,"Portland Trail Blazers",-167,37,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-29,2017,6475,1610612744,400974842,4,6,47,0,"Pullup Jump shot","3PT Field Goal",26,"Detroit Pistons",125,239,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-29,2017,6475,1610612744,400975274,3,4,20,0,"Pullup Jump shot","3PT Field Goal",25,"Charlotte Hornets",128,221,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-29,2017,6475,1610612744,400975274,3,5,20,1,"Pullup Jump shot","2PT Field Goal",20,"Charlotte Hornets",111,171,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-25,2017,6475,1610612744,400974814,4,4,03,0,"Pullup Jump shot","3PT Field Goal",25,"Toronto Raptors",204,151,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-07,2017,6475,1610612744,400975941,4,10,50,0,"Pullup Jump shot","3PT Field Goal",27,"New Orleans Pelicans",138,236,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-07,2017,6475,1610612744,400975941,2,6,05,1,"Pullup Jump shot","2PT Field Goal",18,"New Orleans Pelicans",98,152,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-07,2017,6475,1610612744,400975941,2,11,43,0,"Pullup Jump shot","2PT Field Goal",17,"New Orleans Pelicans",33,169,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-07,2017,6475,1610612744,400975941,1,8,15,0,"Pullup Jump shot","2PT Field Goal",20,"New Orleans Pelicans",-83,189,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-07,2017,6475,1610612744,400975941,4,8,02,1,"Pullup Jump shot","3PT Field Goal",29,"New Orleans Pelicans",90,277,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-07,2017,6475,1610612744,400975941,1,5,41,1,"Pullup Jump shot","2PT Field Goal",19,"New Orleans Pelicans",-115,159,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-01,2017,6475,1610612744,400975899,2,6,22,0,"Pullup Jump shot","2PT Field Goal",18,"Phoenix Suns",134,132,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-05,2017,6475,1610612744,400975921,1,7,52,0,"Pullup Jump shot","3PT Field Goal",27,"Indiana Pacers",6,277,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-24,2017,6475,1610612744,400975027,1,2,22,1,"Pullup Jump shot","3PT Field Goal",28,"Chicago Bulls",-100,263,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-22,2017,6475,1610612744,400975230,2,0,57,1,"Pullup Jump shot","2PT Field Goal",20,"Los Angeles Lakers",-127,167,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-27,2017,6475,1610612744,400975047,4,0,06,0,"Pullup Jump shot","3PT Field Goal",25,"Sacramento Kings",52,247,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-25,2017,6475,1610612744,400974814,2,3,59,0,"Pullup Jump shot","3PT Field Goal",25,"Toronto Raptors",176,186,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-22,2017,6475,1610612744,400975230,1,9,59,0,"Pullup Jump shot","2PT Field Goal",22,"Los Angeles Lakers",101,206,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-22,2017,6475,1610612744,400975230,3,7,35,0,"Pullup Jump shot","3PT Field Goal",25,"Los Angeles Lakers",122,220,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-13,2017,6475,1610612744,400974950,1,10,12,1,"Pullup Jump shot","3PT Field Goal",25,"Orlando Magic",130,218,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-25,2017,6475,1610612744,400974814,2,5,39,1,"Pullup Jump shot","3PT Field Goal",25,"Toronto Raptors",147,214,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-22,2017,6475,1610612744,400975230,1,8,40,0,"Pullup Jump shot","2PT Field Goal",20,"Los Angeles Lakers",92,179,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-24,2017,6475,1610612744,400975027,3,4,06,1,"Pullup Jump shot","3PT Field Goal",25,"Chicago Bulls",-90,236,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-25,2017,6475,1610612744,400974814,2,10,33,1,"Pullup Jump shot","3PT Field Goal",25,"Toronto Raptors",-212,143,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-14,2017,6475,1610612744,400975610,2,8,25,0,"Pullup Jump shot","3PT Field Goal",25,"Portland Trail Blazers",-162,193,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-27,2017,6475,1610612744,400975260,2,7,22,0,"Pullup Jump shot","2PT Field Goal",16,"Utah Jazz",160,-8,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-23,2017,6475,1610612744,400975240,2,10,22,1,"Pullup Jump shot","2PT Field Goal",18,"Denver Nuggets",-123,138,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-23,2017,6475,1610612744,400975240,4,8,49,0,"Pullup Jump shot","2PT Field Goal",19,"Denver Nuggets",109,158,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-11,2017,6475,1610612744,400974935,4,11,40,1,"Pullup Jump shot","3PT Field Goal",22,"Philadelphia 76ers",-228,-5,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-22,2017,6475,1610612744,400975618,2,8,41,1,"Pullup Jump shot","2PT Field Goal",22,"Los Angeles Clippers",166,155,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,1,2,13,0,"Pullup Jump shot","2PT Field Goal",16,"Utah Jazz",94,130,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-13,2017,6475,1610612744,400974950,2,10,48,1,"Pullup Jump shot","3PT Field Goal",25,"Orlando Magic",-89,236,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-11,2017,6475,1610612744,400974935,1,9,52,1,"Pullup Jump shot","2PT Field Goal",18,"Philadelphia 76ers",131,126,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-13,2017,6475,1610612744,400975377,1,7,16,1,"Pullup Jump shot","2PT Field Goal",19,"Toronto Raptors",49,193,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-22,2017,6475,1610612744,400975014,2,0,21,0,"Pullup Jump shot","3PT Field Goal",25,"Oklahoma City Thunder",220,122,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-22,2017,6475,1610612744,400975014,1,9,53,0,"Pullup Jump shot","2PT Field Goal",8,"Oklahoma City Thunder",-8,81,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-11,2017,6475,1610612744,400974935,2,8,10,0,"Pullup Jump shot","2PT Field Goal",18,"Philadelphia 76ers",-89,159,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-05,2017,6475,1610612744,400975921,3,4,53,0,"Pullup Jump shot","2PT Field Goal",19,"Indiana Pacers",25,196,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-27,2017,6475,1610612744,400975260,3,6,45,1,"Pullup Jump shot","3PT Field Goal",28,"Utah Jazz",-106,267,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-04,2017,6475,1610612744,400974886,2,8,40,0,"Pullup Jump shot","2PT Field Goal",13,"Denver Nuggets",109,79,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-28,2017,6475,1610612744,400975663,4,11,11,0,"Pullup Jump shot","2PT Field Goal",16,"Washington Wizards",139,91,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,4,8,44,0,"Pullup Jump shot","3PT Field Goal",24,"Utah Jazz",58,242,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-13,2017,6475,1610612744,400974950,3,6,19,1,"Pullup Jump shot","3PT Field Goal",25,"Orlando Magic",-113,231,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-11,2017,6475,1610612744,400975146,4,8,14,0,"Pullup Jump shot","2PT Field Goal",18,"Portland Trail Blazers",-107,157,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-04,2017,6475,1610612744,400974886,2,10,21,0,"Pullup Jump shot","3PT Field Goal",25,"Denver Nuggets",-113,229,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-20,2017,6475,1610612744,400975215,2,1,19,1,"Pullup Jump shot","2PT Field Goal",17,"Memphis Grizzlies",9,170,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-20,2017,6475,1610612744,400975215,2,0,02,0,"Pullup Jump shot","2PT Field Goal",15,"Memphis Grizzlies",156,22,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-04,2017,6475,1610612744,400974886,2,0,37,1,"Pullup Jump shot","2PT Field Goal",19,"Denver Nuggets",-78,176,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-24,2017,6475,1610612744,400975633,1,9,59,1,"Pullup Jump shot","2PT Field Goal",20,"Oklahoma City Thunder",208,23,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-20,2017,6475,1610612744,400975215,1,6,05,1,"Pullup Jump shot","3PT Field Goal",24,"Memphis Grizzlies",102,227,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-20,2017,6475,1610612744,400975215,2,10,05,1,"Pullup Jump shot","3PT Field Goal",27,"Memphis Grizzlies",113,256,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-20,2017,6475,1610612744,400975215,2,7,54,1,"Pullup Jump shot","3PT Field Goal",25,"Memphis Grizzlies",166,189,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-14,2017,6475,1610612744,400975610,4,8,33,1,"Pullup Jump shot","2PT Field Goal",18,"Portland Trail Blazers",-116,142,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-01,2017,6475,1610612744,400975069,1,4,16,1,"Pullup Jump shot","2PT Field Goal",18,"Orlando Magic",49,175,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-02,2017,6475,1610612744,400974868,1,9,00,1,"Pullup Jump shot","3PT Field Goal",23,"San Antonio Spurs",-230,63,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-11,2017,6475,1610612744,400975146,3,8,56,1,"Pullup Jump shot","2PT Field Goal",11,"Portland Trail Blazers",4,113,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-02,2017,6475,1610612744,400974868,3,9,06,0,"Pullup Jump shot","2PT Field Goal",12,"San Antonio Spurs",120,48,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-02,2017,6475,1610612744,400974868,4,11,13,1,"Pullup Jump shot","2PT Field Goal",20,"San Antonio Spurs",-201,-26,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-11,2017,6475,1610612744,400975146,2,1,24,1,"Pullup Jump shot","2PT Field Goal",17,"Portland Trail Blazers",99,146,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-14,2017,6475,1610612744,400975610,1,9,23,0,"Pullup Jump shot","2PT Field Goal",11,"Portland Trail Blazers",115,15,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-21,2017,6475,1610612744,400974784,1,9,52,0,"Pullup Jump shot","2PT Field Goal",10,"Memphis Grizzlies",-50,89,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-11,2017,6475,1610612744,400975146,4,11,02,1,"Pullup Jump shot","2PT Field Goal",17,"Portland Trail Blazers",-2,174,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-10,2017,6475,1610612744,400975577,3,5,36,1,"Pullup Jump shot","3PT Field Goal",25,"San Antonio Spurs",141,217,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-13,2017,6475,1610612744,400975377,4,2,23,1,"Pullup Jump shot","2PT Field Goal",16,"Toronto Raptors",-19,159,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-03,2017,6475,1610612744,400975909,1,11,23,0,"Pullup Jump shot","3PT Field Goal",25,"Oklahoma City Thunder",194,158,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-22,2017,6475,1610612744,400975618,2,11,14,1,"Pullup Jump shot","2PT Field Goal",20,"Los Angeles Clippers",113,167,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-28,2017,6475,1610612744,400975663,2,7,04,0,"Pullup Jump shot","3PT Field Goal",26,"Washington Wizards",56,256,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-28,2017,6475,1610612744,400975663,3,4,28,0,"Pullup Jump shot","3PT Field Goal",25,"Washington Wizards",160,196,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-18,2017,6475,1610612744,400974982,3,4,04,1,"Pullup Jump shot","2PT Field Goal",13,"Philadelphia 76ers",-139,16,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-30,2017,6475,1610612744,400975497,2,7,36,1,"Putback Layup Shot","2PT Field Goal",2,"Utah Jazz",22,17,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-05,2017,6475,1610612744,400975921,4,7,47,0,"Putback Layup Shot","2PT Field Goal",0,"Indiana Pacers",0,-6,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-08,2017,6475,1610612744,400975561,4,11,42,0,"Reverse Layup Shot","2PT Field Goal",0,"Dallas Mavericks",-9,4,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-03,2017,6475,1610612744,400975308,4,0,24,1,"Reverse Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-22,11,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-11,2017,6475,1610612744,400975146,4,10,17,0,"Reverse Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-14,10,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-05,2017,6475,1610612744,400975921,4,7,51,0,"Reverse Layup Shot","2PT Field Goal",0,"Indiana Pacers",8,2,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-04,2017,6475,1610612744,400974886,1,5,46,1,"Reverse Layup Shot","2PT Field Goal",2,"Denver Nuggets",-14,15,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-01,2017,6475,1610612744,400975069,1,4,49,1,"Reverse Layup Shot","2PT Field Goal",1,"Orlando Magic",-11,16,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-20,2017,6475,1610612744,400975215,1,6,44,1,"Running Dunk Shot","2PT Field Goal",1,"Memphis Grizzlies",-5,17,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,1,5,12,0,"Running Jump Shot","3PT Field Goal",29,"Phoenix Suns",224,189,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-29,2017,6475,1610612744,400974842,1,6,29,1,"Running Jump Shot","3PT Field Goal",25,"Detroit Pistons",171,188,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-21,2017,6475,1610612744,400974784,3,11,01,0,"Running Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",217,125,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-26,2017,6475,1610612744,400975646,2,6,43,0,"Running Jump Shot","2PT Field Goal",18,"New York Knicks",-78,168,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-02,2017,6475,1610612744,400975674,1,3,37,0,"Running Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-133,223,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-24,2017,6475,1610612744,400975027,2,0,02,0,"Running Jump Shot","3PT Field Goal",30,"Chicago Bulls",173,253,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-17,2017,6475,1610612744,400974438,1,6,56,1,"Running Jump Shot","3PT Field Goal",22,"Houston Rockets",222,-9,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-21,2017,6475,1610612744,400974784,2,1,20,1,"Running Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",166,193,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-27,2017,6475,1610612744,400974826,4,2,17,0,"Running Jump Shot","3PT Field Goal",24,"Washington Wizards",-182,171,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-21,2017,6475,1610612744,400974784,4,8,31,0,"Running Jump Shot","3PT Field Goal",27,"Memphis Grizzlies",-114,246,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-27,2017,6475,1610612744,400975260,4,6,04,1,"Running Jump Shot","3PT Field Goal",25,"Utah Jazz",209,147,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-03,2017,6475,1610612744,400975528,2,11,05,1,"Running Layup Shot","2PT Field Goal",2,"Denver Nuggets",18,11,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-23,2017,6475,1610612744,400975240,3,6,52,1,"Running Layup Shot","2PT Field Goal",1,"Denver Nuggets",-13,13,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,4,5,32,1,"Running Layup Shot","2PT Field Goal",2,"Phoenix Suns",-11,18,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-22,2017,6475,1610612744,400975230,4,2,16,1,"Running Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",6,9,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-11,2017,6475,1610612744,400975146,2,8,13,1,"Running Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",7,15,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-23,2017,6475,1610612744,400974796,1,6,41,1,"Running Layup Shot","2PT Field Goal",1,"Dallas Mavericks",18,8,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-31,2017,6475,1610612744,400975888,1,11,16,1,"Running Layup Shot","2PT Field Goal",1,"Sacramento Kings",-9,12,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-28,2017,6475,1610612744,400975663,2,1,15,1,"Running Layup Shot","2PT Field Goal",2,"Washington Wizards",16,19,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-27,2017,6475,1610612744,400975474,1,10,39,1,"Running Layup Shot","2PT Field Goal",1,"Boston Celtics",6,17,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-21,2017,6475,1610612744,400974784,3,10,26,1,"Running Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",1,8,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-03,2017,6475,1610612744,400975308,2,3,03,0,"Running Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-9,19,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-30,2017,6475,1610612744,400974851,2,2,56,1,"Running Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-12,11,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-10,2017,6475,1610612744,400975577,4,8,43,0,"Running Pull-Up Jump Shot","3PT Field Goal",25,"San Antonio Spurs",154,207,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-14,2017,6475,1610612744,400975610,2,8,50,1,"Running Pull-Up Jump Shot","3PT Field Goal",28,"Portland Trail Blazers",147,247,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-03,2017,6475,1610612744,400975909,2,0,00,0,"Running Pull-Up Jump Shot","3PT Field Goal",27,"Oklahoma City Thunder",69,268,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-21,2017,6475,1610612744,400974784,3,5,49,1,"Running Reverse Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",6,6,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-08,2017,6475,1610612744,400975343,4,6,37,0,"Step Back Jump shot","2PT Field Goal",12,"Denver Nuggets",50,119,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-01,2017,6475,1610612744,400975069,3,8,44,1,"Step Back Jump shot","2PT Field Goal",15,"Orlando Magic",58,140,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-01,2017,6475,1610612744,400975899,4,8,41,1,"Step Back Jump shot","2PT Field Goal",15,"Phoenix Suns",108,105,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-25,2017,6475,1610612744,400974446,2,7,56,1,"Step Back Jump shot","2PT Field Goal",12,"Cleveland Cavaliers",122,21,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-12,2017,6475,1610612744,400975592,1,9,08,1,"Step Back Jump shot","2PT Field Goal",13,"Phoenix Suns",130,31,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-24,2017,6475,1610612744,400975027,3,7,56,1,"Step Back Jump shot","3PT Field Goal",25,"Chicago Bulls",-198,156,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,1,5,59,1,"Step Back Jump shot","3PT Field Goal",26,"Phoenix Suns",215,157,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-30,2017,6475,1610612744,400975281,1,0,29,1,"Step Back Jump shot","2PT Field Goal",19,"Memphis Grizzlies",87,173,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-23,2017,6475,1610612744,400975445,1,10,43,1,"Step Back Jump shot","2PT Field Goal",12,"New York Knicks",48,115,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-14,2017,6475,1610612744,400975168,3,5,18,0,"Step Back Jump shot","2PT Field Goal",20,"Dallas Mavericks",101,173,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-21,2017,6475,1610612744,400974784,2,8,44,0,"Step Back Jump shot","3PT Field Goal",25,"Memphis Grizzlies",27,252,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-30,2017,6475,1610612744,400975281,4,10,04,1,"Step Back Jump shot","2PT Field Goal",16,"Memphis Grizzlies",-114,115,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-30,2017,6475,1610612744,400975281,3,6,21,0,"Step Back Jump shot","2PT Field Goal",18,"Memphis Grizzlies",127,137,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-21,2017,6475,1610612744,400974784,4,10,35,0,"Step Back Jump shot","3PT Field Goal",27,"Memphis Grizzlies",128,245,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-24,2017,6475,1610612744,400975633,1,9,39,0,"Step Back Jump shot","3PT Field Goal",25,"Oklahoma City Thunder",105,231,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,3,9,20,0,"Step Back Jump shot","2PT Field Goal",16,"Utah Jazz",161,-36,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-24,2017,6475,1610612744,400975027,3,8,55,1,"Step Back Jump shot","2PT Field Goal",18,"Chicago Bulls",-105,148,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-30,2017,6475,1610612744,400975281,4,5,05,0,"Step Back Jump shot","2PT Field Goal",17,"Memphis Grizzlies",111,136,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-08,2017,6475,1610612744,400975343,4,6,24,0,"Step Back Jump shot","2PT Field Goal",10,"Denver Nuggets",-109,10,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-27,2017,6475,1610612744,400974826,1,9,49,1,"Step Back Jump shot","2PT Field Goal",12,"Washington Wizards",-34,120,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-30,2017,6475,1610612744,400974851,2,10,27,0,"Step Back Jump shot","2PT Field Goal",14,"Los Angeles Clippers",134,42,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-26,2017,6475,1610612744,400975646,2,7,53,1,"Step Back Jump shot","2PT Field Goal",15,"New York Knicks",98,120,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-29,2017,6475,1610612744,400975063,3,11,20,1,"Step Back Jump shot","2PT Field Goal",17,"Los Angeles Lakers",114,127,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,3,7,05,0,"Step Back Jump shot","2PT Field Goal",13,"Utah Jazz",131,23,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-11,2017,6475,1610612744,400975146,3,4,08,0,"Step Back Jump shot","3PT Field Goal",27,"Portland Trail Blazers",70,264,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-19,2017,6475,1610612744,400974987,4,9,51,1,"Step Back Jump shot","2PT Field Goal",16,"Brooklyn Nets",31,163,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,3,0,42,1,"Step Back Jump shot","2PT Field Goal",12,"Utah Jazz",-71,100,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,3,3,24,1,"Step Back Jump shot","3PT Field Goal",24,"Utah Jazz",144,202,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-01,2017,6475,1610612744,400975899,2,4,40,1,"Step Back Jump shot","2PT Field Goal",11,"Phoenix Suns",9,117,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-31,2017,6475,1610612744,400975888,2,10,06,0,"Step Back Jump shot","2PT Field Goal",17,"Sacramento Kings",134,110,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-26,2017,6475,1610612744,400975646,4,7,47,0,"Step Back Jump shot","2PT Field Goal",22,"New York Knicks",-160,154,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-03,2017,6475,1610612744,400975909,2,7,36,0,"Step Back Jump shot","2PT Field Goal",16,"Oklahoma City Thunder",-94,138,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-16,2017,6475,1610612744,400974966,4,7,13,0,"Step Back Jump shot","2PT Field Goal",16,"Boston Celtics",-159,49,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-02,2017,6475,1610612744,400974868,3,7,48,1,"Step Back Jump shot","3PT Field Goal",23,"San Antonio Spurs",-234,-21,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-30,2017,6475,1610612744,400975497,1,6,27,1,"Step Back Jump shot","2PT Field Goal",15,"Utah Jazz",-133,87,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,1,8,22,1,"Step Back Jump shot","2PT Field Goal",13,"Phoenix Suns",109,77,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-10,2017,6475,1610612744,400975963,2,0,36,0,"Step Back Jump shot","2PT Field Goal",11,"Utah Jazz",-117,26,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-07,2017,6475,1610612744,400975941,2,5,27,0,"Step Back Jump shot","3PT Field Goal",23,"New Orleans Pelicans",-229,48,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-10,2017,6475,1610612744,400975577,1,10,55,0,"Step Back Jump shot","2PT Field Goal",18,"San Antonio Spurs",120,136,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-19,2017,6475,1610612744,400974987,4,7,14,0,"Step Back Jump shot","2PT Field Goal",13,"Brooklyn Nets",52,126,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-22,2017,6475,1610612744,400975014,3,4,42,0,"Step Back Jump shot","2PT Field Goal",13,"Oklahoma City Thunder",-119,59,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-22,2017,6475,1610612744,400975014,3,5,24,1,"Step Back Jump shot","3PT Field Goal",24,"Oklahoma City Thunder",218,115,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-25,2017,6475,1610612744,400974446,4,11,08,0,"Step Back Jump shot","2PT Field Goal",11,"Cleveland Cavaliers",-117,17,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-23,2017,6475,1610612744,400975240,1,10,55,0,"Step Back Jump shot","3PT Field Goal",25,"Denver Nuggets",178,181,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-29,2017,6475,1610612744,400975274,1,7,13,0,"Step Back Jump shot","2PT Field Goal",15,"Charlotte Hornets",124,100,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-27,2017,6475,1610612744,400975474,2,5,26,0,"Step Back Jump shot","2PT Field Goal",15,"Boston Celtics",-3,152,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-07,2017,6475,1610612744,400975941,4,11,24,1,"Step Back Jump shot","3PT Field Goal",25,"New Orleans Pelicans",158,201,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-07,2017,6475,1610612744,400975941,4,7,30,0,"Tip Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",2,25,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-19,2017,6475,1610612744,400974987,1,8,03,1,"Tip Layup Shot","2PT Field Goal",0,"Brooklyn Nets",0,-6,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-11,2017,6475,1610612744,400974935,1,4,14,1,"Tip Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",0,-6,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-08,2017,6475,1610612744,400975343,3,7,56,0,"Tip Layup Shot","2PT Field Goal",0,"Denver Nuggets",0,-6,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-17,2017,6475,1610612744,400974438,3,1,35,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",10,"Houston Rockets",90,50,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-21,2017,6475,1610612744,400974784,1,8,52,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",15,"Memphis Grizzlies",32,149,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-11,2017,6475,1610612744,400974935,2,10,00,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Philadelphia 76ers",117,34,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-01,2017,6475,1610612744,400975899,4,6,53,0,"Turnaround Fadeaway shot","2PT Field Goal",7,"Phoenix Suns",-11,75,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-20,2017,6475,1610612744,400975215,2,9,22,1,"Turnaround Fadeaway shot","2PT Field Goal",5,"Memphis Grizzlies",-57,2,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-04,2017,6475,1610612744,400975312,2,9,46,1,"Turnaround Fadeaway shot","2PT Field Goal",10,"Houston Rockets",0,105,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-22,2017,6475,1610612744,400975014,3,11,45,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Oklahoma City Thunder",74,106,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-27,2017,6475,1610612744,400975474,1,7,58,0,"Turnaround Fadeaway shot","2PT Field Goal",16,"Boston Celtics",-105,126,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-13,2017,6475,1610612744,400974950,2,9,09,0,"Turnaround Fadeaway shot","2PT Field Goal",5,"Orlando Magic",-39,33,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-04,2017,6475,1610612744,400975312,2,1,58,0,"Turnaround Fadeaway shot","2PT Field Goal",17,"Houston Rockets",177,31,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-30,2017,6475,1610612744,400975497,2,1,51,0,"Turnaround Fadeaway shot","2PT Field Goal",7,"Utah Jazz",-73,-7,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-01,2017,6475,1610612744,400975069,4,11,48,1,"Turnaround Fadeaway shot","2PT Field Goal",15,"Orlando Magic",41,153,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-08,2017,6475,1610612744,400975561,2,10,26,1,"Turnaround Fadeaway shot","2PT Field Goal",14,"Dallas Mavericks",116,81,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-04,2017,6475,1610612744,400975312,4,5,59,1,"Turnaround Fadeaway shot","2PT Field Goal",8,"Houston Rockets",81,38,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-25,2017,6475,1610612744,400974814,2,8,20,1,"Turnaround Fadeaway shot","2PT Field Goal",18,"Toronto Raptors",103,154,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-27,2017,6475,1610612744,400974826,2,3,07,0,"Turnaround Fadeaway shot","2PT Field Goal",10,"Washington Wizards",101,26,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-03,2017,6475,1610612744,400975528,3,3,58,1,"Turnaround Fadeaway shot","2PT Field Goal",8,"Denver Nuggets",29,76,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-03-31,2017,6475,1610612744,400975888,4,9,40,0,"Turnaround Fadeaway shot","2PT Field Goal",8,"Sacramento Kings",-3,88,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-03,2017,6475,1610612744,400975308,3,5,10,0,"Turnaround Fadeaway shot","2PT Field Goal",11,"Dallas Mavericks",117,12,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-23,2017,6475,1610612744,400974796,4,9,38,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Dallas Mavericks",-58,101,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-02,2017,6475,1610612744,400974868,2,8,09,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"San Antonio Spurs",-123,85,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-04,2017,6475,1610612744,400975097,1,3,55,0,"Turnaround Hook Shot","2PT Field Goal",11,"New Orleans Pelicans",11,115,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-06,2017,6475,1610612744,400975549,1,8,48,0,"Turnaround Hook Shot","2PT Field Goal",7,"Oklahoma City Thunder",-65,34,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-29,2017,6475,1610612744,400974842,2,8,55,1,"Turnaround Jump Shot","2PT Field Goal",18,"Detroit Pistons",-96,158,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-07,2017,6475,1610612744,400975941,1,9,30,1,"Turnaround Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",85,173,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-29,2017,6475,1610612744,400975274,1,9,42,1,"Turnaround Jump Shot","2PT Field Goal",21,"Charlotte Hornets",-130,165,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,1,9,48,1,"Turnaround Jump Shot","2PT Field Goal",16,"Phoenix Suns",164,15,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-02,2017,6475,1610612744,400974868,4,7,52,1,"Turnaround Jump Shot","2PT Field Goal",18,"San Antonio Spurs",-73,168,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-04,2017,6475,1610612744,400974886,2,7,22,0,"Turnaround Jump Shot","3PT Field Goal",22,"Denver Nuggets",-223,3,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-02,2017,6475,1610612744,400974868,2,8,45,1,"Turnaround Jump Shot","2PT Field Goal",14,"San Antonio Spurs",143,17,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-03,2017,6475,1610612744,400975086,1,8,09,1,"Turnaround Jump Shot","2PT Field Goal",18,"Miami Heat",184,0,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-22,2017,6475,1610612744,400975618,1,10,17,1,"Turnaround Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",228,37,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-12,2017,6475,1610612744,400975592,3,3,36,1,"Turnaround Jump Shot","2PT Field Goal",14,"Phoenix Suns",-61,127,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-14,2017,6475,1610612744,400975168,1,4,16,0,"Turnaround Jump Shot","2PT Field Goal",12,"Dallas Mavericks",-101,74,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-27,2017,6475,1610612744,400975047,4,0,36,0,"Turnaround Jump Shot","2PT Field Goal",12,"Sacramento Kings",-8,129,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-13,2017,6475,1610612744,400974950,3,11,46,1,"Turnaround Jump Shot","2PT Field Goal",18,"Orlando Magic",121,145,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-30,2017,6475,1610612744,400974851,3,6,50,1,"Turnaround Jump Shot","2PT Field Goal",17,"Los Angeles Clippers",171,13,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-08,2017,6475,1610612744,400975119,4,10,50,1,"Turnaround Jump Shot","2PT Field Goal",20,"Detroit Pistons",-139,147,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-23,2017,6475,1610612744,400974796,1,10,00,1,"Turnaround Jump Shot","2PT Field Goal",6,"Dallas Mavericks",-27,58,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-29,2017,6475,1610612744,400975274,2,7,43,1,"Turnaround Jump Shot","2PT Field Goal",16,"Charlotte Hornets",145,83,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-06,2017,6475,1610612744,400975549,4,6,39,0,"Turnaround Jump Shot","2PT Field Goal",15,"Oklahoma City Thunder",-113,104,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-04-08,2017,6475,1610612744,400975949,3,10,45,0,"Turnaround Jump Shot","2PT Field Goal",15,"Phoenix Suns",-152,2,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-14,2017,6475,1610612744,400975610,2,10,39,0,"Turnaround Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",122,99,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-01-04,2017,6475,1610612744,400975312,1,3,56,1,"Turnaround Jump Shot","2PT Field Goal",16,"Houston Rockets",-118,114,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2018-02-08,2017,6475,1610612744,400975561,3,9,31,0,"Turnaround Jump Shot","2PT Field Goal",16,"Dallas Mavericks",139,90,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-11-18,2017,6475,1610612744,400974982,4,5,34,1,"Turnaround Jump Shot","2PT Field Goal",11,"Philadelphia 76ers",116,-22,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-30,2017,6475,1610612744,400974851,1,6,01,1,"Turnaround Jump Shot","2PT Field Goal",17,"Los Angeles Clippers",-168,63,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-06,2017,6475,1610612744,400975109,4,8,49,0,"Turnaround Jump Shot","2PT Field Goal",9,"Charlotte Hornets",95,28,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-12-11,2017,6475,1610612744,400975146,1,7,34,0,"Turnaround Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",54,176,0,0.00,,0.00,0.00
+"Klay Thompson","Golden State Warriors",2017-10-27,2017,6475,1610612744,400974826,2,10,09,1,"Turnaround Jump Shot","2PT Field Goal",12,"Washington Wizards",101,70,0,0.00,,0.00,0.00
